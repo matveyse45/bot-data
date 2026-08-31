@@ -1625,5 +1625,18 @@
     "username": "xBeLFeGoRx",
     "status": "🌟 Новичок",
     "manual_status": false
+  },
+  "1848093887": {
+    "questions_anonymous": 0,
+    "questions_named": 0,
+    "ideas": 0,
+    "ads": 0,
+    "cooperation": 0,
+    "other_proposals": 0,
+    "story": 0,
+    "wishlist": 0,
+    "username": null,
+    "status": "🌟 Новичок",
+    "manual_status": false
   }
 }
