@@ -16,7 +16,7 @@
         "chatter": 11,
         "streamer": 5,
         "viewer": 5,
-        "supporter": 5,
+        "supporter": 6,
         "ideator": 4,
         "mod": 3,
         "legend": 3
@@ -28,7 +28,7 @@
         "day": "2026-10-06",
         "n": 5
       },
-      "coins": 9620,
+      "coins": 9610,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
