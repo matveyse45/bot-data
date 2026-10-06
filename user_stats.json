@@ -13,8 +13,7 @@
     "manual_status": true,
     "game": {
       "cards": {
-        "chatter": 2,
-        "streamer": 1
+        "chatter": 2
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -28,7 +27,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-06",
-        "n": 1
+        "n": 2
       },
       "purchases": [],
       "stars_spent": 0
