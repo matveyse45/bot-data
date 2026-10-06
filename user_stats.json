@@ -12,9 +12,8 @@
     "status": "👑Бог этого бота",
     "manual_status": true,
     "game": {
-      "stars": 10000,
       "cards": {
-        "chatter": 1,
+        "chatter": 2,
         "streamer": 1,
         "viewer": 1
       },
@@ -24,7 +23,16 @@
       "earned": {
         "day": "2026-10-06",
         "n": 5
-      }
+      },
+      "coins": 9960,
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_spent": 0
     }
   },
   "5750369141": {
