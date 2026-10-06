@@ -147,9 +147,10 @@
     "username": "alonso_agent",
     "status": "💡 Идеатор",
     "game": {
-      "stars": 20,
+      "stars": 10,
       "cards": {
-        "mod": 1
+        "mod": 1,
+        "ideator": 1
       },
       "pvp_wins": 0,
       "challenge": null,
