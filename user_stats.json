@@ -145,7 +145,20 @@
     "story": 0,
     "wishlist": 0,
     "username": "alonso_agent",
-    "status": "💡 Идеатор"
+    "status": "💡 Идеатор",
+    "game": {
+      "stars": 20,
+      "cards": {
+        "mod": 1
+      },
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      }
+    }
   },
   "5813072646": {
     "questions_anonymous": 1,
