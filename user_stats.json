@@ -12,9 +12,10 @@
     "status": "👑Бог этого бота",
     "manual_status": true,
     "game": {
-      "stars": 20,
+      "stars": 10,
       "cards": {
-        "chatter": 1
+        "chatter": 1,
+        "streamer": 1
       },
       "pvp_wins": 0,
       "challenge": null,
