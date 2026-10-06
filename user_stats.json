@@ -17,7 +17,7 @@
         "streamer": 1,
         "viewer": 1,
         "supporter": 1,
-        "ideator": 1
+        "ideator": 2
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -26,7 +26,7 @@
         "day": "2026-10-06",
         "n": 5
       },
-      "coins": 9890,
+      "coins": 9880,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
