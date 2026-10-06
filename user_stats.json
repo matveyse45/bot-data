@@ -1,7 +1,7 @@
 {
   "1254694598": {
     "questions_anonymous": 9,
-    "questions_named": 15,
+    "questions_named": 16,
     "ideas": 7,
     "ads": 0,
     "cooperation": 0,
@@ -12,7 +12,7 @@
     "status": "👑Бог этого бота",
     "manual_status": true,
     "game": {
-      "stars": 0,
+      "stars": 5,
       "cards": {
         "chatter": 1,
         "streamer": 1,
@@ -22,8 +22,8 @@
       "challenge": null,
       "reward_notified": false,
       "earned": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-06",
+        "n": 5
       }
     }
   },
