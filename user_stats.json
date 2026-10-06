@@ -12,7 +12,7 @@
     "status": "👑Бог этого бота",
     "manual_status": true,
     "game": {
-      "stars": 5,
+      "stars": 10000,
       "cards": {
         "chatter": 1,
         "streamer": 1,
