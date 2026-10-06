@@ -136,7 +136,7 @@
     "status": "🌟 Новичок"
   },
   "6792799058": {
-    "questions_anonymous": 5,
+    "questions_anonymous": 6,
     "questions_named": 2,
     "ideas": 1,
     "ads": 1,
@@ -147,7 +147,7 @@
     "username": "alonso_agent",
     "status": "💡 Идеатор",
     "game": {
-      "stars": 0,
+      "stars": 5,
       "cards": {
         "mod": 1,
         "ideator": 1,
@@ -157,8 +157,8 @@
       "challenge": null,
       "reward_notified": false,
       "earned": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-06",
+        "n": 5
       }
     }
   },
