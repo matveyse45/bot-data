@@ -15,7 +15,7 @@
       "cards": {
         "chatter": 8,
         "streamer": 3,
-        "viewer": 4,
+        "viewer": 5,
         "supporter": 4,
         "ideator": 3,
         "mod": 2,
@@ -28,7 +28,7 @@
         "day": "2026-10-06",
         "n": 5
       },
-      "coins": 9730,
+      "coins": 9720,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
