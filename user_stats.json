@@ -17,11 +17,7 @@
         "streamer": 1
       },
       "pvp_wins": 0,
-      "challenge": {
-        "id": "5892BB3A",
-        "card": "chatter",
-        "ts": 1791324909.7272122
-      },
+      "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "2026-10-06",
@@ -158,19 +154,28 @@
     "username": "alonso_agent",
     "status": "💡 Идеатор",
     "game": {
-      "stars": 5,
       "cards": {
-        "mod": 1,
         "ideator": 1,
-        "supporter": 1
+        "supporter": 1,
+        "chatter": 1,
+        "mod": 1
       },
-      "pvp_wins": 0,
+      "pvp_wins": 1,
       "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "2026-10-06",
         "n": 5
-      }
+      },
+      "coins": 0,
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_spent": 0
     }
   },
   "5813072646": {
