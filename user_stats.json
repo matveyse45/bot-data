@@ -10,7 +10,20 @@
     "wishlist": 4,
     "username": "matvey_sport",
     "status": "👑Бог этого бота",
-    "manual_status": true
+    "manual_status": true,
+    "game": {
+      "stars": 20,
+      "cards": {
+        "chatter": 1
+      },
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      }
+    }
   },
   "5750369141": {
     "questions_anonymous": 1,
