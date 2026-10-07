@@ -13,15 +13,14 @@
     "manual_status": true,
     "game": {
       "cards": {
-        "chatter": 13,
+        "chatter": 12,
         "streamer": 6,
         "viewer": 9,
         "supporter": 8,
         "ideator": 7,
         "mod": 3,
         "legend": 3,
-        "alonso": 1,
-        "skeptic": 2,
+        "skeptic": 3,
         "newbie": 1,
         "memer": 1,
         "scenarist": 1,
@@ -30,19 +29,24 @@
         "clipper": 1,
         "spammer": 1
       },
-      "pvp_wins": 0,
-      "challenge": null,
+      "pvp_wins": 1,
+      "challenge": {
+        "id": "FEFF5CCC",
+        "card": "alonso",
+        "rarity": "legendary",
+        "ts": 1791385725.7358363
+      },
       "reward_notified": false,
       "earned": {
         "day": "2026-10-06",
         "n": 5
       },
-      "coins": 9250,
+      "coins": 9230,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-07",
-        "n": 2
+        "n": 4
       },
       "purchases": [],
       "stars_spent": 0,
@@ -182,12 +186,12 @@
     "status": "💡 Идеатор",
     "game": {
       "cards": {
-        "ideator": 1,
-        "supporter": 1,
+        "supporter": 2,
         "chatter": 1,
-        "mod": 1
+        "mod": 1,
+        "ideator": 1
       },
-      "pvp_wins": 1,
+      "pvp_wins": 2,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -202,7 +206,20 @@
         "n": 0
       },
       "purchases": [],
-      "stars_spent": 0
+      "stars_spent": 0,
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false
     }
   },
   "5813072646": {
