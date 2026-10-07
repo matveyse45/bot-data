@@ -27,7 +27,8 @@
         "scenarist": 1,
         "tiktoker": 1,
         "asker": 1,
-        "clipper": 1
+        "clipper": 1,
+        "spammer": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -36,7 +37,7 @@
         "day": "2026-10-06",
         "n": 5
       },
-      "coins": 9270,
+      "coins": 9250,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
