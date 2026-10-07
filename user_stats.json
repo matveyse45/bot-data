@@ -24,7 +24,8 @@
         "skeptic": 1,
         "newbie": 1,
         "memer": 1,
-        "scenarist": 1
+        "scenarist": 1,
+        "tiktoker": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -33,7 +34,7 @@
         "day": "2026-10-06",
         "n": 5
       },
-      "coins": 9410,
+      "coins": 9390,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
