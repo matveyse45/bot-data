@@ -13,7 +13,7 @@
     "manual_status": true,
     "game": {
       "cards": {
-        "chatter": 14,
+        "chatter": 13,
         "streamer": 6,
         "viewer": 9,
         "supporter": 8,
@@ -42,7 +42,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-07",
-        "n": 1
+        "n": 2
       },
       "purchases": [],
       "stars_spent": 0,
