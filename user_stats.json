@@ -26,7 +26,8 @@
         "memer": 1,
         "scenarist": 1,
         "tiktoker": 1,
-        "asker": 1
+        "asker": 1,
+        "clipper": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -35,7 +36,7 @@
         "day": "2026-10-06",
         "n": 5
       },
-      "coins": 9290,
+      "coins": 9270,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
@@ -1757,7 +1758,15 @@
         "last": "2026-10-07",
         "streak": 1
       },
-      "show_stars": false
+      "show_stars": false,
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1
     }
   },
   "665568352": {
