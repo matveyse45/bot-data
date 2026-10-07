@@ -1720,7 +1720,31 @@
     "wishlist": 0,
     "username": "uwemby",
     "status": "💬 Вопросник",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 10,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_spent": 0,
+      "daily": {
+        "last": "2026-10-07",
+        "streak": 1
+      },
+      "show_stars": false
+    }
   },
   "665568352": {
     "questions_anonymous": 0,
