@@ -30,7 +30,8 @@
         "hungry": 1,
         "alonso": 1,
         "sub": 1,
-        "editor": 1
+        "editor": 1,
+        "evil": 1
       },
       "pvp_wins": 3,
       "challenge": null,
@@ -59,7 +60,8 @@
       },
       "promos_used": [
         "WELCOME",
-        "ROMA"
+        "ROMA",
+        "LEGEND"
       ],
       "trades": 1,
       "completed_ts": null,
