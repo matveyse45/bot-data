@@ -38,7 +38,7 @@
         "day": "2026-10-08",
         "n": 24
       },
-      "coins": 9164,
+      "coins": 9184,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
@@ -56,7 +56,9 @@
         "day": "",
         "n": 0
       },
-      "promos_used": [],
+      "promos_used": [
+        "WELCOME"
+      ],
       "trades": 1,
       "completed_ts": null,
       "contest_ver": 1,
