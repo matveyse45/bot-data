@@ -369,11 +369,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 40,
+      "coins": 20,
       "cards": {
         "tiktoker": 1,
         "alons": 1,
-        "chatter": 1
+        "chatter": 1,
+        "night": 1
       },
       "pvp_wins": 0,
       "challenge": null,
