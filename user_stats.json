@@ -13,7 +13,7 @@
     "manual_status": true,
     "game": {
       "cards": {
-        "chatter": 12,
+        "chatter": 7,
         "streamer": 6,
         "viewer": 9,
         "supporter": 9,
@@ -26,7 +26,8 @@
         "tiktoker": 1,
         "clipper": 1,
         "spammer": 1,
-        "sleepy": 1
+        "sleepy": 1,
+        "hungry": 1
       },
       "pvp_wins": 3,
       "challenge": {
@@ -59,7 +60,7 @@
         "n": 0
       },
       "promos_used": [],
-      "trades": 0,
+      "trades": 1,
       "completed_ts": null,
       "contest_ver": 1,
       "exchanges": []
