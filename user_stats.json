@@ -17,7 +17,7 @@
         "streamer": 6,
         "viewer": 9,
         "supporter": 9,
-        "ideator": 8,
+        "ideator": 7,
         "mod": 4,
         "legend": 3,
         "skeptic": 3,
@@ -45,7 +45,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-08",
-        "n": 4
+        "n": 5
       },
       "purchases": [],
       "stars_spent": 0,
