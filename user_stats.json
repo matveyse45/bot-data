@@ -25,7 +25,6 @@
         "memer": 1,
         "tiktoker": 1,
         "clipper": 1,
-        "spammer": 1,
         "sleepy": 1,
         "hungry": 1,
         "alonso": 1,
@@ -35,7 +34,12 @@
         "glam": 1
       },
       "pvp_wins": 3,
-      "challenge": null,
+      "challenge": {
+        "id": "D670B158",
+        "card": "spammer",
+        "rarity": "common",
+        "ts": 1791490925.8280897
+      },
       "reward_notified": false,
       "earned": {
         "day": "2026-10-08",
@@ -360,7 +364,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 220,
+      "coins": 10,
       "cards": {
         "tiktoker": 1,
         "alons": 1,
