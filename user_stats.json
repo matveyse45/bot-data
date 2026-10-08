@@ -31,7 +31,8 @@
         "alonso": 1,
         "sub": 1,
         "editor": 1,
-        "evil": 1
+        "evil": 1,
+        "glam": 1
       },
       "pvp_wins": 3,
       "challenge": null,
@@ -40,9 +41,18 @@
         "day": "2026-10-08",
         "n": 24
       },
-      "coins": 9264,
+      "coins": 9374,
       "paid_ids": [],
-      "unrevealed": [],
+      "unrevealed": [
+        {
+          "cards": [
+            "glam"
+          ],
+          "new": [
+            true
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "2026-10-08",
         "n": 5
@@ -97,6 +107,15 @@
           "ts": 1791489734,
           "coins": 60,
           "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "2096458552",
+          "ts": 1791490146,
+          "coins": 110,
+          "cards": [
+            "glam"
+          ],
           "rewarded": true
         }
       ]
@@ -463,7 +482,45 @@
     "wishlist": 0,
     "username": "koliyren",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "1254694598",
+      "ts": 1791490146,
+      "coins": 100
+    }
   },
   "8374988485": {
     "questions_anonymous": 8,
