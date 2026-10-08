@@ -26,7 +26,7 @@
         "tiktoker": 1,
         "clipper": 1,
         "sleepy": 1,
-        "hungry": 1,
+        "hungry": 2,
         "alonso": 1,
         "sub": 1,
         "editor": 1,
@@ -45,7 +45,7 @@
         "day": "2026-10-08",
         "n": 24
       },
-      "coins": 9374,
+      "coins": 9354,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
