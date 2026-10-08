@@ -228,7 +228,7 @@
         "day": "2026-10-06",
         "n": 5
       },
-      "coins": 0,
+      "coins": 10,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
@@ -242,14 +242,15 @@
         "n": 0
       },
       "daily": {
-        "last": "",
-        "streak": 0
+        "last": "2026-10-08",
+        "streak": 1
       },
       "promos_used": [],
       "trades": 0,
       "completed_ts": null,
       "contest_ver": 1,
-      "show_stars": false
+      "show_stars": false,
+      "exchanges": []
     }
   },
   "5813072646": {
