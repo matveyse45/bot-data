@@ -13,15 +13,15 @@
     "manual_status": true,
     "game": {
       "cards": {
-        "chatter": 7,
+        "chatter": 4,
         "streamer": 6,
-        "viewer": 9,
-        "supporter": 9,
+        "viewer": 7,
+        "supporter": 6,
         "ideator": 7,
-        "mod": 4,
+        "mod": 1,
         "legend": 3,
-        "skeptic": 3,
-        "newbie": 2,
+        "skeptic": 2,
+        "newbie": 1,
         "memer": 1,
         "tiktoker": 1,
         "clipper": 1,
@@ -63,7 +63,22 @@
       "trades": 1,
       "completed_ts": null,
       "contest_ver": 1,
-      "exchanges": []
+      "exchanges": [
+        {
+          "id": "B90EE3",
+          "reward": "circle",
+          "cards": {
+            "mod": 3,
+            "skeptic": 1,
+            "chatter": 3,
+            "supporter": 3,
+            "newbie": 1,
+            "viewer": 2
+          },
+          "value": 255,
+          "ts": 1791469439
+        }
+      ]
     }
   },
   "5750369141": {
