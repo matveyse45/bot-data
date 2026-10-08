@@ -31,7 +31,8 @@
         "sub": 1,
         "editor": 1,
         "evil": 1,
-        "glam": 1
+        "glam": 1,
+        "spammer": 1
       },
       "pvp_wins": 3,
       "challenge": {
@@ -45,7 +46,7 @@
         "day": "2026-10-08",
         "n": 24
       },
-      "coins": 9334,
+      "coins": 9314,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
