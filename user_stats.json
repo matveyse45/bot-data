@@ -29,7 +29,8 @@
         "sleepy": 1,
         "hungry": 1,
         "alonso": 1,
-        "sub": 1
+        "sub": 1,
+        "editor": 1
       },
       "pvp_wins": 3,
       "challenge": null,
@@ -57,7 +58,8 @@
         "n": 0
       },
       "promos_used": [
-        "WELCOME"
+        "WELCOME",
+        "ROMA"
       ],
       "trades": 1,
       "completed_ts": null,
