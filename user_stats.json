@@ -16,7 +16,7 @@
         "chatter": 12,
         "streamer": 6,
         "viewer": 9,
-        "supporter": 8,
+        "supporter": 9,
         "ideator": 8,
         "mod": 4,
         "legend": 3,
@@ -28,7 +28,7 @@
         "spammer": 1,
         "sleepy": 1
       },
-      "pvp_wins": 2,
+      "pvp_wins": 3,
       "challenge": {
         "id": "FEFF5CCC",
         "card": "alonso",
@@ -45,7 +45,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-08",
-        "n": 3
+        "n": 4
       },
       "purchases": [],
       "stars_spent": 0,
