@@ -26,7 +26,7 @@
         "tiktoker": 1,
         "clipper": 1,
         "spammer": 1,
-        "sleepy": 2
+        "sleepy": 1
       },
       "pvp_wins": 1,
       "challenge": {
@@ -45,7 +45,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-08",
-        "n": 1
+        "n": 2
       },
       "purchases": [],
       "stars_spent": 0,
