@@ -20,7 +20,7 @@
         "ideator": 7,
         "mod": 1,
         "legend": 3,
-        "skeptic": 2,
+        "skeptic": 3,
         "newbie": 2,
         "memer": 1,
         "tiktoker": 1,
@@ -40,7 +40,7 @@
         "day": "2026-10-08",
         "n": 24
       },
-      "coins": 9184,
+      "coins": 9164,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
