@@ -369,7 +369,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 220,
+      "coins": 10,
       "cards": {
         "tiktoker": 1,
         "alons": 1,
@@ -397,8 +397,8 @@
       },
       "stars_spent": 0,
       "daily": {
-        "last": "",
-        "streak": 0
+        "last": "2026-10-08",
+        "streak": 1
       },
       "promos_used": [],
       "trades": 0,
