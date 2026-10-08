@@ -40,7 +40,7 @@
         "day": "2026-10-08",
         "n": 24
       },
-      "coins": 9204,
+      "coins": 9264,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
@@ -88,6 +88,13 @@
         {
           "uid": "5646960919",
           "ts": 1791487877,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "5333405278",
+          "ts": 1791489734,
           "coins": 60,
           "cards": [],
           "rewarded": true
@@ -339,9 +346,47 @@
     "other_proposals": 0,
     "story": 0,
     "wishlist": 0,
-    "username": null,
+    "username": "Egor_Sob1",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "1254694598",
+      "ts": 1791489734,
+      "coins": 100
+    }
   },
   "1622800089": {
     "questions_anonymous": 0,
