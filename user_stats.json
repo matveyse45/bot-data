@@ -428,7 +428,7 @@
         "boss": 1,
         "legend": 2,
         "glam": 2,
-        "sly": 2,
+        "sly": 1,
         "editor": 1,
         "night": 1,
         "skeptic": 1,
@@ -457,7 +457,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-09",
-        "n": 2
+        "n": 3
       },
       "purchases": [
         {
