@@ -21,7 +21,7 @@
         "mod": 1,
         "legend": 1,
         "skeptic": 1,
-        "newbie": 1,
+        "newbie": 2,
         "memer": 1,
         "tiktoker": 1,
         "clipper": 1,
@@ -37,7 +37,7 @@
         "night": 1,
         "melon": 1
       },
-      "pvp_wins": 3,
+      "pvp_wins": 4,
       "challenge": {
         "id": "D670B158",
         "card": "spammer",
@@ -53,8 +53,8 @@
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
-        "day": "2026-10-08",
-        "n": 5
+        "day": "2026-10-09",
+        "n": 1
       },
       "purchases": [],
       "stars_spent": 0,
