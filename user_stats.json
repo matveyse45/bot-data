@@ -424,7 +424,18 @@
     "manual_status": true,
     "game": {
       "coins": 10,
-      "cards": {},
+      "cards": {
+        "boss": 1,
+        "legend": 1,
+        "glam": 2,
+        "sly": 1,
+        "editor": 1,
+        "night": 1,
+        "skeptic": 1,
+        "chatter": 1,
+        "sleepy": 1,
+        "melon": 1
+      },
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
@@ -432,18 +443,56 @@
         "day": "",
         "n": 0
       },
-      "paid_ids": [],
-      "unrevealed": [],
+      "paid_ids": [
+        "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr"
+      ],
+      "unrevealed": [
+        {
+          "cards": [
+            "boss",
+            "legend",
+            "glam",
+            "sly",
+            "editor",
+            "night",
+            "skeptic",
+            "chatter",
+            "sleepy",
+            "glam",
+            "melon"
+          ],
+          "new": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            false,
+            true
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "",
         "n": 0
       },
-      "purchases": [],
+      "purchases": [
+        {
+          "pack": "mega",
+          "stars": 50,
+          "ts": 1791543002,
+          "charge": "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr"
+        }
+      ],
       "stars_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-09",
+        "n": 50
       },
-      "stars_spent": 0,
+      "stars_spent": 50,
       "daily": {
         "last": "2026-10-09",
         "streak": 1
