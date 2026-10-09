@@ -446,36 +446,7 @@
       "paid_ids": [
         "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr"
       ],
-      "unrevealed": [
-        {
-          "cards": [
-            "boss",
-            "legend",
-            "glam",
-            "sly",
-            "editor",
-            "night",
-            "skeptic",
-            "chatter",
-            "sleepy",
-            "glam",
-            "melon"
-          ],
-          "new": [
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            true,
-            false,
-            true
-          ]
-        }
-      ],
+      "unrevealed": [],
       "pvp_day": {
         "day": "",
         "n": 0
