@@ -453,36 +453,7 @@
         "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr",
         "stxIQYhRti9hCBZrp3fCFCK_wHk_H2_C1RKrkQeLClPAjaesVOB9U81JhyVKwwuj5pvaq6x0gpRsDsZ1WgX4cB5kIhUZounfXFwiUcLX8x_9VvqdxElBW-QpSPQ3wQzQ7qh"
       ],
-      "unrevealed": [
-        {
-          "cards": [
-            "legend",
-            "sly",
-            "alons",
-            "supporter",
-            "sub",
-            "sub",
-            "melon",
-            "spammer",
-            "fan",
-            "memer",
-            "sub"
-          ],
-          "new": [
-            false,
-            false,
-            true,
-            true,
-            true,
-            false,
-            false,
-            true,
-            true,
-            true,
-            false
-          ]
-        }
-      ],
+      "unrevealed": [],
       "pvp_day": {
         "day": "",
         "n": 0
