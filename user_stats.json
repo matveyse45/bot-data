@@ -440,9 +440,10 @@
         "sub": 3,
         "spammer": 1,
         "fan": 1,
-        "memer": 1
+        "memer": 1,
+        "evil": 1
       },
-      "pvp_wins": 0,
+      "pvp_wins": 1,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -455,8 +456,8 @@
       ],
       "unrevealed": [],
       "pvp_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-09",
+        "n": 1
       },
       "purchases": [
         {
