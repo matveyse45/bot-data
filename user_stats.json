@@ -366,7 +366,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 220,
+      "coins": 230,
       "cards": {
         "tiktoker": 1,
         "alons": 1,
@@ -394,8 +394,8 @@
       },
       "stars_spent": 0,
       "daily": {
-        "last": "2026-10-08",
-        "streak": 1
+        "last": "2026-10-09",
+        "streak": 2
       },
       "promos_used": [],
       "trades": 0,
@@ -1876,7 +1876,40 @@
     "wishlist": 0,
     "username": "NullNyxx",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 0,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "7207335246": {
     "questions_anonymous": 1,
