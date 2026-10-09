@@ -426,15 +426,21 @@
       "coins": 10,
       "cards": {
         "boss": 1,
-        "legend": 1,
+        "legend": 2,
         "glam": 2,
-        "sly": 1,
+        "sly": 2,
         "editor": 1,
         "night": 1,
         "skeptic": 1,
         "chatter": 1,
         "sleepy": 1,
-        "melon": 1
+        "melon": 2,
+        "alons": 1,
+        "supporter": 1,
+        "sub": 3,
+        "spammer": 1,
+        "fan": 1,
+        "memer": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -444,9 +450,39 @@
         "n": 0
       },
       "paid_ids": [
-        "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr"
+        "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr",
+        "stxIQYhRti9hCBZrp3fCFCK_wHk_H2_C1RKrkQeLClPAjaesVOB9U81JhyVKwwuj5pvaq6x0gpRsDsZ1WgX4cB5kIhUZounfXFwiUcLX8x_9VvqdxElBW-QpSPQ3wQzQ7qh"
       ],
-      "unrevealed": [],
+      "unrevealed": [
+        {
+          "cards": [
+            "legend",
+            "sly",
+            "alons",
+            "supporter",
+            "sub",
+            "sub",
+            "melon",
+            "spammer",
+            "fan",
+            "memer",
+            "sub"
+          ],
+          "new": [
+            false,
+            false,
+            true,
+            true,
+            true,
+            false,
+            false,
+            true,
+            true,
+            true,
+            false
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "",
         "n": 0
@@ -457,13 +493,19 @@
           "stars": 50,
           "ts": 1791543002,
           "charge": "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr"
+        },
+        {
+          "pack": "mega",
+          "stars": 50,
+          "ts": 1791543304,
+          "charge": "stxIQYhRti9hCBZrp3fCFCK_wHk_H2_C1RKrkQeLClPAjaesVOB9U81JhyVKwwuj5pvaq6x0gpRsDsZ1WgX4cB5kIhUZounfXFwiUcLX8x_9VvqdxElBW-QpSPQ3wQzQ7qh"
         }
       ],
       "stars_day": {
         "day": "2026-10-09",
-        "n": 50
+        "n": 100
       },
-      "stars_spent": 50,
+      "stars_spent": 100,
       "daily": {
         "last": "2026-10-09",
         "streak": 1
