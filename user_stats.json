@@ -34,10 +34,10 @@
         "glam": 1,
         "spammer": 1,
         "fan": 1,
-        "night": 1,
+        "night": 2,
         "melon": 1
       },
-      "pvp_wins": 4,
+      "pvp_wins": 5,
       "challenge": {
         "id": "D670B158",
         "card": "spammer",
@@ -54,7 +54,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-09",
-        "n": 1
+        "n": 2
       },
       "purchases": [],
       "stars_spent": 0,
