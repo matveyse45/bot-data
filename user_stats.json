@@ -32,7 +32,7 @@
         "editor": 1,
         "evil": 1,
         "glam": 1,
-        "spammer": 1,
+        "spammer": 2,
         "fan": 1,
         "night": 2,
         "melon": 1
@@ -50,22 +50,40 @@
         "n": 24
       },
       "coins": 9269,
-      "paid_ids": [],
-      "unrevealed": [],
+      "paid_ids": [
+        "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
+      ],
+      "unrevealed": [
+        {
+          "cards": [
+            "spammer"
+          ],
+          "new": [
+            false
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "2026-10-09",
         "n": 2
       },
-      "purchases": [],
-      "stars_spent": 0,
+      "purchases": [
+        {
+          "pack": "common",
+          "stars": 5,
+          "ts": 1791566318,
+          "charge": "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
+        }
+      ],
+      "stars_spent": 5,
       "daily": {
         "last": "2026-10-09",
         "streak": 3
       },
       "show_stars": false,
       "stars_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-09",
+        "n": 5
       },
       "promos_used": [
         "WELCOME",
