@@ -53,16 +53,7 @@
       "paid_ids": [
         "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
       ],
-      "unrevealed": [
-        {
-          "cards": [
-            "spammer"
-          ],
-          "new": [
-            false
-          ]
-        }
-      ],
+      "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-09",
         "n": 2
