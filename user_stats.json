@@ -1905,7 +1905,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 90,
+      "coins": 70,
       "cards": {
         "streamer": 2,
         "og": 1,
@@ -1926,7 +1926,8 @@
         "alons": 1,
         "alonso": 1,
         "tiktoker": 1,
-        "night": 1
+        "night": 1,
+        "regular": 1
       },
       "pvp_wins": 0,
       "challenge": null,
