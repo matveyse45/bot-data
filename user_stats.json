@@ -1905,7 +1905,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 70,
+      "coins": 50,
       "cards": {
         "streamer": 1,
         "og": 1,
@@ -1928,7 +1928,8 @@
         "tiktoker": 1,
         "night": 1,
         "regular": 1,
-        "melon": 1
+        "melon": 1,
+        "sleepy": 1
       },
       "pvp_wins": 0,
       "challenge": null,
