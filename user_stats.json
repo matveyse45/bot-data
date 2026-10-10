@@ -16,7 +16,7 @@
         "chatter": 1,
         "streamer": 1,
         "viewer": 1,
-        "supporter": 1,
+        "supporter": 2,
         "ideator": 1,
         "mod": 1,
         "legend": 1,
@@ -44,7 +44,7 @@
         "day": "2026-10-08",
         "n": 24
       },
-      "coins": 9284,
+      "coins": 9264,
       "paid_ids": [
         "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
       ],
