@@ -1905,10 +1905,11 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 150,
+      "coins": 260,
       "cards": {
         "streamer": 1,
-        "og": 1
+        "og": 1,
+        "sly": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -1918,7 +1919,16 @@
         "n": 0
       },
       "paid_ids": [],
-      "unrevealed": [],
+      "unrevealed": [
+        {
+          "cards": [
+            "sly"
+          ],
+          "new": [
+            true
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "",
         "n": 0
@@ -1958,6 +1968,15 @@
           "ts": 1791663013,
           "coins": 60,
           "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "1926267562",
+          "ts": 1791672255,
+          "coins": 110,
+          "cards": [
+            "sly"
+          ],
           "rewarded": true
         }
       ]
@@ -3038,8 +3057,46 @@
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": null,
+    "username": "litran",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791672255,
+      "coins": 100
+    }
   }
 }
