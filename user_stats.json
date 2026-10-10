@@ -1903,7 +1903,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 30,
       "cards": {
         "streamer": 1,
         "og": 1
@@ -1933,7 +1933,8 @@
       },
       "promos_used": [
         "ROMA",
-        "LEGEND"
+        "LEGEND",
+        "WELCOME"
       ],
       "trades": 0,
       "completed_ts": null,
