@@ -1905,7 +1905,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 190,
+      "coins": 170,
       "cards": {
         "streamer": 1,
         "og": 1,
@@ -1921,7 +1921,8 @@
         "evil": 1,
         "viewer": 2,
         "memer": 1,
-        "editor": 1
+        "editor": 1,
+        "kind": 1
       },
       "pvp_wins": 0,
       "challenge": null,
