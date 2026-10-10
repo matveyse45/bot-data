@@ -1919,16 +1919,7 @@
         "n": 0
       },
       "paid_ids": [],
-      "unrevealed": [
-        {
-          "cards": [
-            "sly"
-          ],
-          "new": [
-            true
-          ]
-        }
-      ],
+      "unrevealed": [],
       "pvp_day": {
         "day": "",
         "n": 0
