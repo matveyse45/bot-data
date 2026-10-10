@@ -32,18 +32,13 @@
         "editor": 1,
         "evil": 1,
         "glam": 1,
-        "spammer": 2,
+        "spammer": 3,
         "fan": 1,
         "night": 2,
         "melon": 1
       },
       "pvp_wins": 5,
-      "challenge": {
-        "id": "D670B158",
-        "card": "spammer",
-        "rarity": "common",
-        "ts": 1791490925.8280897
-      },
+      "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "2026-10-08",
