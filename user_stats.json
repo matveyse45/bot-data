@@ -1907,9 +1907,9 @@
     "game": {
       "coins": 10,
       "cards": {
-        "streamer": 3,
+        "streamer": 1,
         "og": 1,
-        "sly": 2,
+        "sly": 1,
         "newbie": 2,
         "sub": 1,
         "skeptic": 1,
@@ -1927,7 +1927,8 @@
         "alonso": 1,
         "tiktoker": 1,
         "night": 1,
-        "regular": 1
+        "regular": 1,
+        "melon": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -1957,7 +1958,7 @@
         "LEGEND",
         "WELCOME"
       ],
-      "trades": 2,
+      "trades": 3,
       "completed_ts": null,
       "contest_ver": 1,
       "show_stars": false,
