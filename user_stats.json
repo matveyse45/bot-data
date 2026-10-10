@@ -1905,9 +1905,9 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 50,
+      "coins": 30,
       "cards": {
-        "streamer": 2,
+        "streamer": 3,
         "og": 1,
         "sly": 2,
         "newbie": 1,
