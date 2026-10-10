@@ -2152,7 +2152,7 @@
         "last": "2026-10-07",
         "streak": 1
       },
-      "show_stars": false,
+      "show_stars": true,
       "stars_day": {
         "day": "",
         "n": 0
@@ -2160,7 +2160,8 @@
       "promos_used": [],
       "trades": 0,
       "completed_ts": null,
-      "contest_ver": 1
+      "contest_ver": 1,
+      "exchanges": []
     }
   },
   "665568352": {
