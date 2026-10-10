@@ -1905,13 +1905,14 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 230,
+      "coins": 210,
       "cards": {
         "streamer": 1,
         "og": 1,
         "sly": 1,
         "newbie": 1,
-        "sub": 1
+        "sub": 1,
+        "skeptic": 1
       },
       "pvp_wins": 0,
       "challenge": null,
