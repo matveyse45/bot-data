@@ -1931,16 +1931,7 @@
         "n": 0
       },
       "paid_ids": [],
-      "unrevealed": [
-        {
-          "cards": [
-            "legend"
-          ],
-          "new": [
-            false
-          ]
-        }
-      ],
+      "unrevealed": [],
       "pvp_day": {
         "day": "",
         "n": 0
