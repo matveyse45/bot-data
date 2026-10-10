@@ -1905,7 +1905,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 90,
       "cards": {
         "streamer": 2,
         "og": 1,
@@ -2001,6 +2001,13 @@
           "cards": [
             "legend"
           ],
+          "rewarded": true
+        },
+        {
+          "uid": "1549865763",
+          "ts": 1791673713,
+          "coins": 80,
+          "cards": [],
           "rewarded": true
         }
       ]
@@ -3231,8 +3238,46 @@
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": null,
+    "username": "mayriix",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791673713,
+      "coins": 100
+    }
   }
 }
