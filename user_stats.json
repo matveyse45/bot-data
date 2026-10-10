@@ -44,7 +44,7 @@
         "day": "2026-10-08",
         "n": 24
       },
-      "coins": 9269,
+      "coins": 9284,
       "paid_ids": [
         "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
       ],
@@ -63,8 +63,8 @@
       ],
       "stars_spent": 5,
       "daily": {
-        "last": "2026-10-09",
-        "streak": 3
+        "last": "2026-10-10",
+        "streak": 4
       },
       "show_stars": false,
       "stars_day": {
