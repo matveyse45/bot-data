@@ -1905,7 +1905,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 190,
       "cards": {
         "streamer": 1,
         "og": 1,
@@ -1917,7 +1917,7 @@
         "fan": 2,
         "ideator": 1,
         "mod": 3,
-        "legend": 1,
+        "legend": 2,
         "evil": 1,
         "viewer": 2,
         "memer": 1,
@@ -1931,7 +1931,16 @@
         "n": 0
       },
       "paid_ids": [],
-      "unrevealed": [],
+      "unrevealed": [
+        {
+          "cards": [
+            "legend"
+          ],
+          "new": [
+            false
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "",
         "n": 0
@@ -1987,6 +1996,15 @@
           "ts": 1791672626,
           "coins": 60,
           "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "6370672619",
+          "ts": 1791673268,
+          "coins": 180,
+          "cards": [
+            "legend"
+          ],
           "rewarded": true
         }
       ]
@@ -3167,8 +3185,46 @@
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": null,
+    "username": "padllaaa",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791673268,
+      "coins": 100
+    }
   }
 }
