@@ -1905,12 +1905,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 50,
+      "coins": 30,
       "cards": {
         "streamer": 1,
         "og": 1,
         "sly": 1,
-        "newbie": 2,
+        "newbie": 3,
         "sub": 1,
         "skeptic": 1,
         "chatter": 1,
