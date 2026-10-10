@@ -1905,7 +1905,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 90,
+      "coins": 70,
       "cards": {
         "streamer": 1,
         "og": 1,
@@ -1918,7 +1918,7 @@
         "ideator": 1,
         "mod": 1,
         "legend": 2,
-        "evil": 2,
+        "evil": 3,
         "viewer": 1,
         "memer": 1,
         "editor": 1,
