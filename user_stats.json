@@ -2132,9 +2132,7 @@
     "manual_status": false,
     "game": {
       "coins": 0,
-      "cards": {
-        "regular": 1
-      },
+      "cards": {},
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
@@ -2145,8 +2143,8 @@
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-10",
+        "n": 1
       },
       "purchases": [],
       "stars_spent": 0,
