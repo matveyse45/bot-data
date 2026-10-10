@@ -34,7 +34,7 @@
         "glam": 2,
         "spammer": 5,
         "fan": 1,
-        "night": 2,
+        "night": 3,
         "melon": 2,
         "regular": 1,
         "happy": 2,
@@ -47,7 +47,7 @@
         "day": "2026-10-08",
         "n": 24
       },
-      "coins": 8444,
+      "coins": 8424,
       "paid_ids": [
         "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
       ],
