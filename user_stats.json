@@ -2131,8 +2131,10 @@
     "status": "💬 Вопросник",
     "manual_status": false,
     "game": {
-      "coins": 20,
-      "cards": {},
+      "coins": 0,
+      "cards": {
+        "regular": 1
+      },
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
