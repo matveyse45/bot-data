@@ -1905,7 +1905,8 @@
     "game": {
       "coins": 0,
       "cards": {
-        "streamer": 1
+        "streamer": 1,
+        "og": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -1931,7 +1932,8 @@
         "streak": 0
       },
       "promos_used": [
-        "ROMA"
+        "ROMA",
+        "LEGEND"
       ],
       "trades": 0,
       "completed_ts": null,
