@@ -1908,7 +1908,7 @@
       "coins": 10,
       "cards": {
         "streamer": 1,
-        "og": 1,
+        "og": 2,
         "sly": 1,
         "newbie": 3,
         "sub": 1,
@@ -1917,8 +1917,8 @@
         "fan": 1,
         "ideator": 1,
         "mod": 1,
-        "legend": 2,
-        "evil": 3,
+        "legend": 1,
+        "evil": 1,
         "viewer": 1,
         "memer": 1,
         "editor": 1,
@@ -1959,7 +1959,7 @@
         "LEGEND",
         "WELCOME"
       ],
-      "trades": 3,
+      "trades": 4,
       "completed_ts": null,
       "contest_ver": 1,
       "show_stars": false,
