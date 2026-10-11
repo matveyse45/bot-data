@@ -1965,9 +1965,9 @@
     "game": {
       "coins": 165,
       "cards": {
-        "streamer": 2,
+        "streamer": 1,
         "og": 2,
-        "sly": 2,
+        "sly": 1,
         "newbie": 1,
         "sub": 1,
         "skeptic": 2,
@@ -1980,7 +1980,7 @@
         "viewer": 2,
         "memer": 1,
         "editor": 1,
-        "kind": 2,
+        "kind": 1,
         "alons": 1,
         "alonso": 2,
         "tiktoker": 1,
@@ -1992,7 +1992,8 @@
         "happy": 1,
         "spammer": 1,
         "clipper": 3,
-        "supporter": 1
+        "supporter": 1,
+        "glam": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -2022,7 +2023,7 @@
         "LEGEND",
         "WELCOME"
       ],
-      "trades": 9,
+      "trades": 10,
       "completed_ts": null,
       "contest_ver": 1,
       "show_stars": false,
