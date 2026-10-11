@@ -14,7 +14,6 @@
     "game": {
       "cards": {
         "chatter": 1,
-        "streamer": 1,
         "viewer": 1,
         "supporter": 1,
         "ideator": 1,
@@ -58,7 +57,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-11",
-        "n": 1
+        "n": 2
       },
       "purchases": [
         {
