@@ -1963,7 +1963,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 25,
+      "coins": 5,
       "cards": {
         "streamer": 1,
         "og": 2,
@@ -1987,7 +1987,8 @@
         "night": 2,
         "regular": 2,
         "melon": 1,
-        "sleepy": 1
+        "sleepy": 1,
+        "hungry": 1
       },
       "pvp_wins": 0,
       "challenge": null,
