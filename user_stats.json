@@ -16,7 +16,7 @@
         "chatter": 1,
         "streamer": 1,
         "viewer": 1,
-        "supporter": 2,
+        "supporter": 1,
         "ideator": 1,
         "mod": 1,
         "legend": 1,
@@ -29,7 +29,7 @@
         "hungry": 1,
         "alonso": 1,
         "sub": 2,
-        "editor": 3,
+        "editor": 1,
         "evil": 1,
         "glam": 1,
         "spammer": 1,
@@ -82,7 +82,7 @@
         "ROMA",
         "LEGEND"
       ],
-      "trades": 16,
+      "trades": 17,
       "completed_ts": null,
       "contest_ver": 1,
       "exchanges": [
