@@ -3223,7 +3223,7 @@
     }
   },
   "6370672619": {
-    "questions_anonymous": 0,
+    "questions_anonymous": 1,
     "questions_named": 0,
     "ideas": 0,
     "ads": 0,
@@ -3234,14 +3234,14 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 100,
+      "coins": 105,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
       "earned": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-11",
+        "n": 5
       },
       "paid_ids": [],
       "unrevealed": [],
@@ -3430,7 +3430,7 @@
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": null,
+    "username": "mentali100",
     "status": "🌟 Новичок",
     "manual_status": false
   }
