@@ -1963,7 +1963,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 205,
+      "coins": 185,
       "cards": {
         "streamer": 2,
         "og": 2,
@@ -1992,7 +1992,7 @@
         "happy": 1,
         "spammer": 1,
         "clipper": 3,
-        "supporter": 1
+        "supporter": 2
       },
       "pvp_wins": 0,
       "challenge": null,
