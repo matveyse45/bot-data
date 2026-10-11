@@ -283,7 +283,7 @@
         "day": "2026-10-06",
         "n": 5
       },
-      "coins": 10,
+      "coins": 20,
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
@@ -297,7 +297,7 @@
         "n": 0
       },
       "daily": {
-        "last": "2026-10-08",
+        "last": "2026-10-11",
         "streak": 1
       },
       "promos_used": [],
