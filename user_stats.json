@@ -18,7 +18,6 @@
         "supporter": 1,
         "ideator": 1,
         "mod": 1,
-        "legend": 1,
         "skeptic": 3,
         "newbie": 1,
         "memer": 3,
@@ -28,20 +27,12 @@
         "hungry": 1,
         "sub": 2,
         "editor": 2,
-        "evil": 1,
-        "glam": 1,
         "spammer": 1,
         "fan": 1,
         "night": 1,
-        "melon": 1,
         "regular": 1,
         "happy": 1,
-        "alons": 2,
-        "og": 2,
-        "kind": 1,
-        "sly": 1,
-        "alonso": 1,
-        "boss": 1
+        "og": 1
       },
       "pvp_wins": 6,
       "challenge": null,
@@ -120,6 +111,24 @@
           },
           "value": 730,
           "ts": 1791565799
+        },
+        {
+          "id": "028A05",
+          "reward": "answer",
+          "cards": {
+            "alonso": 1,
+            "boss": 1,
+            "og": 1,
+            "glam": 1,
+            "evil": 1,
+            "legend": 1,
+            "alons": 2,
+            "melon": 1,
+            "sly": 1,
+            "kind": 1
+          },
+          "value": 630,
+          "ts": 1791712294
         }
       ]
     },
