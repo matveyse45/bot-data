@@ -1963,14 +1963,14 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 125,
+      "coins": 105,
       "cards": {
         "streamer": 1,
         "og": 2,
         "sly": 1,
         "newbie": 1,
         "sub": 1,
-        "skeptic": 2,
+        "skeptic": 3,
         "chatter": 1,
         "fan": 1,
         "ideator": 1,
