@@ -1963,7 +1963,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 25,
+      "coins": 5,
       "cards": {
         "streamer": 1,
         "og": 2,
@@ -1984,7 +1984,7 @@
         "alons": 1,
         "alonso": 2,
         "tiktoker": 1,
-        "night": 2,
+        "night": 3,
         "regular": 1,
         "melon": 2,
         "sleepy": 2,
