@@ -19,7 +19,7 @@
         "supporter": 6,
         "ideator": 3,
         "mod": 5,
-        "legend": 2,
+        "legend": 1,
         "skeptic": 4,
         "newbie": 6,
         "memer": 4,
@@ -31,14 +31,15 @@
         "sub": 1,
         "editor": 2,
         "evil": 1,
-        "glam": 3,
+        "glam": 1,
         "spammer": 5,
         "fan": 2,
         "night": 3,
         "melon": 2,
         "regular": 1,
         "happy": 3,
-        "alons": 2
+        "alons": 2,
+        "og": 1
       },
       "pvp_wins": 5,
       "challenge": null,
@@ -79,7 +80,7 @@
         "ROMA",
         "LEGEND"
       ],
-      "trades": 1,
+      "trades": 2,
       "completed_ts": null,
       "contest_ver": 1,
       "exchanges": [
