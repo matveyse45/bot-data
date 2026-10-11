@@ -1963,7 +1963,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 65,
+      "coins": 365,
       "cards": {
         "streamer": 1,
         "og": 2,
@@ -1982,7 +1982,7 @@
         "editor": 1,
         "kind": 1,
         "alons": 1,
-        "alonso": 1,
+        "alonso": 2,
         "tiktoker": 2,
         "night": 2,
         "regular": 2,
@@ -1999,7 +1999,16 @@
         "n": 0
       },
       "paid_ids": [],
-      "unrevealed": [],
+      "unrevealed": [
+        {
+          "cards": [
+            "alonso"
+          ],
+          "new": [
+            false
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "",
         "n": 0
@@ -2106,6 +2115,15 @@
           "ts": 1791754580,
           "coins": 80,
           "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "7276303440",
+          "ts": 1791754625,
+          "coins": 300,
+          "cards": [
+            "alonso"
+          ],
           "rewarded": true
         }
       ]
@@ -3960,8 +3978,46 @@
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": null,
+    "username": "Natysya_18",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791754625,
+      "coins": 100
+    }
   }
 }
