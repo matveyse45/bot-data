@@ -40,7 +40,8 @@
         "alons": 2,
         "og": 2,
         "kind": 1,
-        "sly": 1
+        "sly": 1,
+        "alonso": 1
       },
       "pvp_wins": 5,
       "challenge": null,
@@ -80,7 +81,8 @@
         "WELCOME",
         "ROMA",
         "LEGEND",
-        "ROMABOSS2026"
+        "ROMABOSS2026",
+        "ALONSO2026"
       ],
       "trades": 17,
       "completed_ts": null,
