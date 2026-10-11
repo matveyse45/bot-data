@@ -24,7 +24,7 @@
         "newbie": 2,
         "memer": 4,
         "tiktoker": 1,
-        "clipper": 7,
+        "clipper": 2,
         "sleepy": 1,
         "hungry": 3,
         "alonso": 1,
@@ -33,7 +33,7 @@
         "evil": 1,
         "glam": 1,
         "spammer": 5,
-        "fan": 2,
+        "fan": 3,
         "night": 3,
         "melon": 1,
         "regular": 1,
@@ -82,7 +82,7 @@
         "ROMA",
         "LEGEND"
       ],
-      "trades": 10,
+      "trades": 11,
       "completed_ts": null,
       "contest_ver": 1,
       "exchanges": [
