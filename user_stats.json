@@ -19,7 +19,7 @@
         "ideator": 1,
         "mod": 1,
         "legend": 1,
-        "skeptic": 2,
+        "skeptic": 3,
         "newbie": 1,
         "memer": 3,
         "tiktoker": 1,
@@ -43,7 +43,7 @@
         "alonso": 1,
         "boss": 1
       },
-      "pvp_wins": 5,
+      "pvp_wins": 6,
       "challenge": null,
       "reward_notified": true,
       "earned": {
@@ -57,7 +57,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-11",
-        "n": 2
+        "n": 3
       },
       "purchases": [
         {
