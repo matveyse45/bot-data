@@ -14,7 +14,7 @@
     "game": {
       "cards": {
         "chatter": 3,
-        "streamer": 2,
+        "streamer": 1,
         "viewer": 9,
         "supporter": 6,
         "ideator": 3,
@@ -35,11 +35,12 @@
         "spammer": 5,
         "fan": 2,
         "night": 3,
-        "melon": 3,
+        "melon": 1,
         "regular": 1,
         "happy": 3,
         "alons": 2,
-        "og": 1
+        "og": 1,
+        "kind": 1
       },
       "pvp_wins": 5,
       "challenge": null,
@@ -80,7 +81,7 @@
         "ROMA",
         "LEGEND"
       ],
-      "trades": 3,
+      "trades": 4,
       "completed_ts": null,
       "contest_ver": 1,
       "exchanges": [
