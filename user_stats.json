@@ -3421,5 +3421,17 @@
       "ts": 1791674162,
       "coins": 100
     }
+  },
+  "7260617383": {
+    "questions_anonymous": 0,
+    "questions_named": 0,
+    "ideas": 0,
+    "ads": 0,
+    "cooperation": 0,
+    "other_proposals": 0,
+    "story": 0,
+    "username": null,
+    "status": "🌟 Новичок",
+    "manual_status": false
   }
 }
