@@ -41,11 +41,12 @@
         "og": 2,
         "kind": 1,
         "sly": 1,
-        "alonso": 1
+        "alonso": 1,
+        "boss": 1
       },
       "pvp_wins": 5,
       "challenge": null,
-      "reward_notified": false,
+      "reward_notified": true,
       "earned": {
         "day": "2026-10-08",
         "n": 24
@@ -82,10 +83,11 @@
         "ROMA",
         "LEGEND",
         "ROMABOSS2026",
-        "ALONSO2026"
+        "ALONSO2026",
+        "ROMANM"
       ],
       "trades": 17,
-      "completed_ts": null,
+      "completed_ts": 1791711951.1469412,
       "contest_ver": 1,
       "exchanges": [
         {
