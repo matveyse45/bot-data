@@ -13,7 +13,7 @@
     "manual_status": true,
     "game": {
       "cards": {
-        "chatter": 3,
+        "chatter": 1,
         "streamer": 1,
         "viewer": 3,
         "supporter": 1,
@@ -32,8 +32,8 @@
         "editor": 3,
         "evil": 1,
         "glam": 1,
-        "spammer": 1,
-        "fan": 4,
+        "spammer": 2,
+        "fan": 1,
         "night": 3,
         "melon": 1,
         "regular": 1,
@@ -82,7 +82,7 @@
         "ROMA",
         "LEGEND"
       ],
-      "trades": 13,
+      "trades": 14,
       "completed_ts": null,
       "contest_ver": 1,
       "exchanges": [
