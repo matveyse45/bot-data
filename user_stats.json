@@ -27,7 +27,6 @@
         "clipper": 2,
         "sleepy": 1,
         "hungry": 1,
-        "alonso": 1,
         "sub": 2,
         "editor": 2,
         "evil": 1,
@@ -56,8 +55,8 @@
       ],
       "unrevealed": [],
       "pvp_day": {
-        "day": "2026-10-09",
-        "n": 2
+        "day": "2026-10-11",
+        "n": 1
       },
       "purchases": [
         {
