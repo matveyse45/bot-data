@@ -18,7 +18,7 @@
         "viewer": 9,
         "supporter": 6,
         "ideator": 3,
-        "mod": 5,
+        "mod": 2,
         "legend": 1,
         "skeptic": 4,
         "newbie": 6,
@@ -35,7 +35,7 @@
         "spammer": 5,
         "fan": 2,
         "night": 3,
-        "melon": 2,
+        "melon": 3,
         "regular": 1,
         "happy": 3,
         "alons": 2,
@@ -80,7 +80,7 @@
         "ROMA",
         "LEGEND"
       ],
-      "trades": 2,
+      "trades": 3,
       "completed_ts": null,
       "contest_ver": 1,
       "exchanges": [
