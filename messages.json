@@ -371,7 +371,8 @@
     "371": 6370672619,
     "372": 6370672619,
     "373": 6370672619,
-    "374": 8330461077
+    "374": 8330461077,
+    "375": 8330461077
   },
   "message_content": {
     "0": [
@@ -1873,7 +1874,11 @@
     "374": [
       "История от Anonimous. в формате видоса - https://www.tt.site/t/ZGdCSEfmo/",
       "question_named"
+    ],
+    "375": [
+      "Треш-история от Anonimous. в формате видоса - https://www.tt.site/t/ZGdCSEfmo/",
+      "trash"
     ]
   },
-  "message_counter": 375
+  "message_counter": 376
 }
