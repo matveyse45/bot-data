@@ -2347,9 +2347,10 @@
         "ideator": 1,
         "night": 1,
         "evil": 1,
-        "mod": 1
+        "mod": 1,
+        "og": 1
       },
-      "pvp_wins": 0,
+      "pvp_wins": 1,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -2359,7 +2360,7 @@
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
-        "day": "2026-10-10",
+        "day": "2026-10-12",
         "n": 1
       },
       "purchases": [],
