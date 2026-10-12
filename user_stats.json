@@ -638,11 +638,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 60,
+      "coins": 40,
       "cards": {
         "evil": 1,
         "newbie": 1,
-        "hungry": 1
+        "hungry": 1,
+        "tiktoker": 1
       },
       "pvp_wins": 0,
       "challenge": null,
