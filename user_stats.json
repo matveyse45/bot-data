@@ -638,7 +638,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 110,
+      "coins": 120,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
@@ -660,7 +660,7 @@
       },
       "stars_spent": 0,
       "daily": {
-        "last": "2026-10-10",
+        "last": "2026-10-12",
         "streak": 1
       },
       "promos_used": [],
