@@ -2340,13 +2340,14 @@
     "status": "💬 Вопросник",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
         "sleepy": 1,
         "editor": 1,
         "ideator": 1,
         "night": 1,
-        "evil": 1
+        "evil": 1,
+        "mod": 1
       },
       "pvp_wins": 0,
       "challenge": null,
