@@ -2379,11 +2379,15 @@
         "editor": 1,
         "ideator": 1,
         "night": 1,
-        "evil": 1,
         "mod": 1
       },
       "pvp_wins": 1,
-      "challenge": null,
+      "challenge": {
+        "id": "BD1486E5",
+        "card": "evil",
+        "rarity": "epic",
+        "ts": 1791819248.357231
+      },
       "reward_notified": false,
       "earned": {
         "day": "",
