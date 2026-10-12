@@ -13,8 +13,7 @@
     "manual_status": true,
     "game": {
       "cards": {
-        "skeptic": 1,
-        "editor": 1
+        "skeptic": 1
       },
       "pvp_wins": 6,
       "challenge": null,
@@ -29,8 +28,8 @@
       ],
       "unrevealed": [],
       "pvp_day": {
-        "day": "2026-10-11",
-        "n": 3
+        "day": "2026-10-12",
+        "n": 1
       },
       "purchases": [
         {
