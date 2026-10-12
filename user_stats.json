@@ -2340,7 +2340,7 @@
     "status": "💬 Вопросник",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 70,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
@@ -2371,6 +2371,17 @@
       "completed_ts": null,
       "contest_ver": 1,
       "exchanges": []
+    },
+    "ref": {
+      "invited": [
+        {
+          "uid": "8986639859",
+          "ts": 1791797800,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        }
+      ]
     }
   },
   "665568352": {
@@ -2473,9 +2484,47 @@
     "other_proposals": 0,
     "story": 0,
     "wishlist": 0,
-    "username": null,
+    "username": "lolilmao",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "8973603889",
+      "ts": 1791797800,
+      "coins": 100
+    }
   },
   "5922302856": {
     "questions_anonymous": 4,
