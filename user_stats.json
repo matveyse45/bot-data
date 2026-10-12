@@ -2347,8 +2347,7 @@
         "ideator": 1,
         "night": 1,
         "evil": 1,
-        "mod": 1,
-        "og": 1
+        "mod": 1
       },
       "pvp_wins": 1,
       "challenge": null,
@@ -2361,7 +2360,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-12",
-        "n": 1
+        "n": 2
       },
       "purchases": [],
       "stars_spent": 0,
