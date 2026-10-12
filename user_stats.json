@@ -331,7 +331,7 @@
   "5813072646": {
     "questions_anonymous": 2,
     "questions_named": 4,
-    "ideas": 1,
+    "ideas": 2,
     "ads": 0,
     "cooperation": 0,
     "other_proposals": 0,
@@ -340,14 +340,14 @@
     "username": "PUBG_DEN4IK",
     "status": "💬 Вопросник",
     "game": {
-      "coins": 5,
+      "coins": 13,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "2026-10-12",
-        "n": 5
+        "n": 13
       },
       "paid_ids": [],
       "unrevealed": [],
