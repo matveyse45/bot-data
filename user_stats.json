@@ -2340,7 +2340,7 @@
     "status": "💬 Вопросник",
     "manual_status": false,
     "game": {
-      "coins": 0,
+      "coins": 10,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
@@ -2358,7 +2358,7 @@
       "purchases": [],
       "stars_spent": 0,
       "daily": {
-        "last": "2026-10-10",
+        "last": "2026-10-12",
         "streak": 1
       },
       "show_stars": true,
