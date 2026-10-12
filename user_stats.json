@@ -638,10 +638,10 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 20,
+      "coins": 0,
       "cards": {
         "evil": 1,
-        "newbie": 1,
+        "newbie": 2,
         "hungry": 1,
         "tiktoker": 1,
         "melon": 1
