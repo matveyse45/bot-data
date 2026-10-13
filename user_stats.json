@@ -2004,7 +2004,7 @@
       "coins": 0,
       "cards": {
         "streamer": 1,
-        "og": 4,
+        "og": 1,
         "sly": 1,
         "newbie": 1,
         "sub": 2,
@@ -2020,7 +2020,7 @@
         "editor": 2,
         "kind": 1,
         "alons": 2,
-        "alonso": 2,
+        "alonso": 3,
         "tiktoker": 1,
         "night": 2,
         "regular": 1,
@@ -2061,7 +2061,7 @@
         "LEGEND",
         "WELCOME"
       ],
-      "trades": 15,
+      "trades": 16,
       "completed_ts": null,
       "contest_ver": 1,
       "show_stars": false,
