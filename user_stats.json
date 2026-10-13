@@ -12,9 +12,7 @@
     "status": "👑Бог этого бота",
     "manual_status": true,
     "game": {
-      "cards": {
-        "skeptic": 1
-      },
+      "cards": {},
       "pvp_wins": 6,
       "challenge": null,
       "reward_notified": true,
@@ -28,7 +26,7 @@
       ],
       "unrevealed": [],
       "pvp_day": {
-        "day": "2026-10-12",
+        "day": "2026-10-13",
         "n": 1
       },
       "purchases": [
