@@ -2001,7 +2001,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 100,
+      "coins": 80,
       "cards": {
         "streamer": 1,
         "og": 2,
@@ -2018,7 +2018,7 @@
         "viewer": 1,
         "memer": 1,
         "editor": 1,
-        "kind": 1,
+        "kind": 2,
         "alons": 1,
         "alonso": 2,
         "tiktoker": 1,
