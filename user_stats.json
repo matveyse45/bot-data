@@ -2001,7 +2001,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 0,
+      "coins": 100,
       "cards": {
         "streamer": 1,
         "og": 1,
@@ -2190,6 +2190,13 @@
         {
           "uid": "1351306954",
           "ts": 1791889496,
+          "coins": 100,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "1620085328",
+          "ts": 1791891539,
           "coins": 100,
           "cards": [],
           "rewarded": true
@@ -4496,8 +4503,46 @@
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": null,
+    "username": "dueemm",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791891539,
+      "coins": 100
+    }
   }
 }
