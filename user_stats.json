@@ -2001,11 +2001,11 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 60,
+      "coins": 40,
       "cards": {
         "streamer": 1,
         "og": 2,
-        "sly": 2,
+        "sly": 3,
         "newbie": 1,
         "sub": 1,
         "skeptic": 1,
