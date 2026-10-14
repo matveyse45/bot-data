@@ -2,7 +2,7 @@
   "1254694598": {
     "questions_anonymous": 9,
     "questions_named": 16,
-    "ideas": 7,
+    "ideas": 8,
     "ads": 0,
     "cooperation": 0,
     "other_proposals": 2,
@@ -19,10 +19,10 @@
       "challenge": null,
       "reward_notified": true,
       "earned": {
-        "day": "2026-10-08",
-        "n": 24
+        "day": "2026-10-15",
+        "n": 8
       },
-      "coins": 8094,
+      "coins": 8102,
       "paid_ids": [
         "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
       ],
