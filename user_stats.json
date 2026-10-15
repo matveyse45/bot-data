@@ -4548,7 +4548,7 @@
   "1089076378": {
     "questions_anonymous": 1,
     "questions_named": 0,
-    "ideas": 0,
+    "ideas": 1,
     "ads": 0,
     "cooperation": 0,
     "other_proposals": 0,
@@ -4557,14 +4557,14 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 5,
+      "coins": 13,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "2026-10-15",
-        "n": 5
+        "n": 13
       },
       "paid_ids": [],
       "unrevealed": [],
