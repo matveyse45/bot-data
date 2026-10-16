@@ -2001,7 +2001,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 20,
+      "coins": 0,
       "cards": {
         "streamer": 1,
         "og": 1,
@@ -2025,7 +2025,7 @@
         "night": 2,
         "regular": 1,
         "melon": 2,
-        "sleepy": 1,
+        "sleepy": 2,
         "hungry": 1,
         "happy": 2,
         "spammer": 1,
