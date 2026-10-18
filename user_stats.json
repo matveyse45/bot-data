@@ -3822,25 +3822,25 @@
     "manual_status": false
   },
   "1414952246": {
-    "questions_anonymous": 0,
+    "questions_anonymous": 1,
     "questions_named": 0,
     "ideas": 0,
     "ads": 0,
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": "skoree_vsego_ia_tebia_poliubil",
+    "username": "skoree20",
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 15,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
       "earned": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-18",
+        "n": 5
       },
       "paid_ids": [],
       "unrevealed": [],
