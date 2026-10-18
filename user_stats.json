@@ -4050,7 +4050,7 @@
     "manual_status": false
   },
   "5178805197": {
-    "questions_anonymous": 4,
+    "questions_anonymous": 5,
     "questions_named": 0,
     "ideas": 0,
     "ads": 0,
@@ -4058,17 +4058,17 @@
     "other_proposals": 0,
     "story": 0,
     "username": "sachelka_52",
-    "status": "🌟 Новичок",
+    "status": "💬 Вопросник",
     "manual_status": false,
     "game": {
-      "coins": 20,
+      "coins": 25,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "2026-10-18",
-        "n": 20
+        "n": 25
       },
       "paid_ids": [],
       "unrevealed": [],
