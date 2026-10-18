@@ -4657,7 +4657,7 @@
     }
   },
   "8093284910": {
-    "questions_anonymous": 0,
+    "questions_anonymous": 1,
     "questions_named": 0,
     "ideas": 1,
     "ads": 0,
@@ -4668,14 +4668,14 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 8,
+      "coins": 13,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
       "earned": {
-        "day": "2026-10-17",
-        "n": 8
+        "day": "2026-10-18",
+        "n": 5
       },
       "paid_ids": [],
       "unrevealed": [],
