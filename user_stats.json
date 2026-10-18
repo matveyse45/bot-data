@@ -2034,7 +2034,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 20,
+      "coins": 0,
       "cards": {
         "streamer": 1,
         "og": 1,
@@ -2049,7 +2049,7 @@
         "legend": 1,
         "evil": 1,
         "viewer": 1,
-        "memer": 1,
+        "memer": 2,
         "editor": 1,
         "kind": 1,
         "alons": 2,
