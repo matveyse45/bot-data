@@ -659,7 +659,7 @@
     }
   },
   "2096458552": {
-    "questions_anonymous": 1,
+    "questions_anonymous": 2,
     "questions_named": 0,
     "ideas": 0,
     "ads": 0,
@@ -671,7 +671,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 0,
+      "coins": 5,
       "cards": {
         "evil": 1,
         "newbie": 2,
@@ -683,8 +683,8 @@
       "challenge": null,
       "reward_notified": false,
       "earned": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-18",
+        "n": 5
       },
       "paid_ids": [],
       "unrevealed": [],
