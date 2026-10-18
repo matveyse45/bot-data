@@ -528,7 +528,7 @@
     }
   },
   "1622800089": {
-    "questions_anonymous": 4,
+    "questions_anonymous": 5,
     "questions_named": 5,
     "ideas": 4,
     "ads": 0,
@@ -540,7 +540,7 @@
     "status": "Инсайд🍋",
     "manual_status": true,
     "game": {
-      "coins": 38,
+      "coins": 43,
       "cards": {
         "boss": 1,
         "legend": 2,
@@ -565,7 +565,7 @@
       "reward_notified": false,
       "earned": {
         "day": "2026-10-18",
-        "n": 20
+        "n": 25
       },
       "paid_ids": [
         "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr",
