@@ -2022,7 +2022,7 @@
     "manual_status": false
   },
   "6296107121": {
-    "questions_anonymous": 0,
+    "questions_anonymous": 1,
     "questions_named": 0,
     "ideas": 0,
     "ads": 0,
@@ -2034,7 +2034,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 15,
       "cards": {
         "streamer": 1,
         "og": 1,
@@ -2070,8 +2070,8 @@
       "challenge": null,
       "reward_notified": false,
       "earned": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-18",
+        "n": 5
       },
       "paid_ids": [],
       "unrevealed": [],
