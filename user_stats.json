@@ -373,7 +373,7 @@
     }
   },
   "1745796959": {
-    "questions_anonymous": 2,
+    "questions_anonymous": 3,
     "questions_named": 0,
     "ideas": 0,
     "ads": 0,
@@ -383,7 +383,40 @@
     "wishlist": 1,
     "username": "Xalate3",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5047693701": {
     "questions_anonymous": 1,
