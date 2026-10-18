@@ -3822,7 +3822,7 @@
     "manual_status": false
   },
   "1414952246": {
-    "questions_anonymous": 2,
+    "questions_anonymous": 3,
     "questions_named": 0,
     "ideas": 0,
     "ads": 0,
@@ -3833,14 +3833,14 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 20,
+      "coins": 25,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "2026-10-18",
-        "n": 10
+        "n": 15
       },
       "paid_ids": [],
       "unrevealed": [],
