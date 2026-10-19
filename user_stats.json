@@ -2034,7 +2034,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 0,
+      "coins": 15,
       "cards": {
         "streamer": 1,
         "og": 1,
@@ -2086,8 +2086,8 @@
       },
       "stars_spent": 0,
       "daily": {
-        "last": "2026-10-18",
-        "streak": 9
+        "last": "2026-10-19",
+        "streak": 10
       },
       "promos_used": [
         "ROMA",
