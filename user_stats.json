@@ -2034,12 +2034,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 25,
+      "coins": 5,
       "cards": {
         "streamer": 1,
         "og": 1,
         "sly": 1,
-        "newbie": 1,
+        "newbie": 2,
         "sub": 2,
         "skeptic": 1,
         "chatter": 1,
