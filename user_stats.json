@@ -13,7 +13,8 @@
     "manual_status": true,
     "game": {
       "cards": {
-        "alons": 1
+        "alons": 1,
+        "clipper": 1
       },
       "pvp_wins": 6,
       "challenge": null,
@@ -22,7 +23,7 @@
         "day": "2026-10-15",
         "n": 8
       },
-      "coins": 8157,
+      "coins": 8137,
       "paid_ids": [
         "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
       ],
