@@ -957,10 +957,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 90,
+      "coins": 50,
       "cards": {
         "viewer": 1,
-        "hungry": 1
+        "hungry": 1,
+        "skeptic": 1,
+        "newbie": 1
       },
       "pvp_wins": 0,
       "challenge": null,
