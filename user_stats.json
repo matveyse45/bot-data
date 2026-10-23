@@ -10,7 +10,40 @@
     "wishlist": 4,
     "username": "matvey_sport",
     "status": "👑Бог этого бота",
-    "manual_status": true
+    "manual_status": true,
+    "game": {
+      "coins": 0,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5750369141": {
     "questions_anonymous": 1,
@@ -105,8 +138,41 @@
     "other_proposals": 0,
     "story": 0,
     "wishlist": 0,
-    "username": null,
-    "status": "🌟 Новичок"
+    "username": "alonso_brat",
+    "status": "🌟 Новичок",
+    "game": {
+      "coins": 0,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "8103266002": {
     "questions_anonymous": 0,
@@ -2259,7 +2325,40 @@
     "story": 0,
     "username": "skoree20",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 10,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "2026-10-23",
+        "streak": 1
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "1268989084": {
     "questions_anonymous": 1,
