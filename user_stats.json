@@ -3455,9 +3455,10 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 110,
+      "coins": 90,
       "cards": {
-        "clipper": 1
+        "clipper": 1,
+        "evil": 1
       },
       "pvp_wins": 0,
       "challenge": null,
