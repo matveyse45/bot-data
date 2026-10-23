@@ -3199,7 +3199,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 200,
+      "coins": 230,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
@@ -3221,8 +3221,8 @@
       },
       "stars_spent": 0,
       "daily": {
-        "last": "",
-        "streak": 0
+        "last": "2026-10-24",
+        "streak": 1
       },
       "promos_used": [
         "ALONSOTG"
