@@ -480,11 +480,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 40,
+      "coins": 20,
       "cards": {
         "ideator": 1,
         "sleepy": 1,
-        "hungry": 1
+        "hungry": 1,
+        "spammer": 1
       },
       "pvp_wins": 0,
       "challenge": null,
