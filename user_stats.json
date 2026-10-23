@@ -1602,7 +1602,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 70,
       "cards": {
         "spammer": 1,
         "streamer": 1,
@@ -1642,6 +1642,17 @@
       "contest_ver": 1,
       "show_stars": false,
       "exchanges": []
+    },
+    "ref": {
+      "invited": [
+        {
+          "uid": "5451215809",
+          "ts": 1792788918,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        }
+      ]
     }
   },
   "7207335246": {
@@ -2241,7 +2252,45 @@
     "story": 0,
     "username": "vanillka_luv",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1792788918,
+      "coins": 100
+    }
   },
   "1488492959": {
     "questions_anonymous": 0,
