@@ -3258,9 +3258,10 @@
         "memer": 2,
         "viewer": 1,
         "regular": 1,
-        "tiktoker": 1
+        "tiktoker": 1,
+        "fan": 1
       },
-      "pvp_wins": 0,
+      "pvp_wins": 1,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -3270,8 +3271,8 @@
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-24",
+        "n": 1
       },
       "purchases": [],
       "stars_day": {
