@@ -1602,10 +1602,10 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
         "spammer": 1,
-        "streamer": 2,
+        "streamer": 3,
         "viewer": 1,
         "kind": 1,
         "mod": 1,
