@@ -156,8 +156,10 @@
     "username": "alonso_brat",
     "status": "🌟 Новичок",
     "game": {
-      "coins": 30,
-      "cards": {},
+      "coins": 10,
+      "cards": {
+        "fan": 1
+      },
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
