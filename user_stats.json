@@ -999,7 +999,6 @@
     "game": {
       "coins": 10,
       "cards": {
-        "viewer": 1,
         "hungry": 1,
         "skeptic": 1,
         "newbie": 1,
@@ -1016,8 +1015,8 @@
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-24",
+        "n": 1
       },
       "purchases": [],
       "stars_day": {
