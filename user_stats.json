@@ -1002,7 +1002,6 @@
         "hungry": 1,
         "skeptic": 1,
         "newbie": 1,
-        "tiktoker": 1,
         "chatter": 1
       },
       "pvp_wins": 0,
@@ -1016,7 +1015,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 1
+        "n": 2
       },
       "purchases": [],
       "stars_day": {
