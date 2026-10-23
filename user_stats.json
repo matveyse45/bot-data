@@ -3493,13 +3493,14 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
         "clipper": 1,
         "evil": 1,
         "tiktoker": 1,
         "viewer": 1,
-        "night": 1
+        "night": 1,
+        "alons": 1
       },
       "pvp_wins": 0,
       "challenge": null,
