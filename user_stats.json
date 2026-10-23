@@ -3334,7 +3334,6 @@
         "spammer": 1,
         "night": 3,
         "skeptic": 1,
-        "mod": 1,
         "supporter": 1,
         "melon": 1,
         "viewer": 1,
@@ -3353,7 +3352,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 4
+        "n": 5
       },
       "purchases": [],
       "stars_day": {
