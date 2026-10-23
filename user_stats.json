@@ -3010,11 +3010,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 70,
+      "coins": 50,
       "cards": {
         "clipper": 1,
         "memer": 1,
-        "hungry": 1
+        "hungry": 1,
+        "night": 1
       },
       "pvp_wins": 0,
       "challenge": null,
