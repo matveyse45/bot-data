@@ -478,7 +478,40 @@
     "wishlist": 0,
     "username": "Author_My_life",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 0,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5524983892": {
     "questions_anonymous": 1,
@@ -3455,10 +3488,11 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 90,
+      "coins": 70,
       "cards": {
         "clipper": 1,
-        "evil": 1
+        "evil": 1,
+        "tiktoker": 1
       },
       "pvp_wins": 0,
       "challenge": null,
