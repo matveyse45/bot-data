@@ -1602,11 +1602,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 40,
+      "coins": 20,
       "cards": {
         "spammer": 1,
         "streamer": 1,
-        "viewer": 1
+        "viewer": 1,
+        "kind": 1
       },
       "pvp_wins": 0,
       "challenge": null,
