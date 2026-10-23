@@ -223,10 +223,11 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 90,
+      "coins": 70,
       "cards": {
         "fan": 1,
-        "mod": 1
+        "mod": 1,
+        "regular": 1
       },
       "pvp_wins": 0,
       "challenge": null,
