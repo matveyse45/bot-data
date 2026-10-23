@@ -1001,9 +1001,10 @@
       "coins": 10,
       "cards": {
         "newbie": 1,
-        "chatter": 1
+        "chatter": 1,
+        "memer": 1
       },
-      "pvp_wins": 0,
+      "pvp_wins": 1,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -1014,7 +1015,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 4
+        "n": 5
       },
       "purchases": [],
       "stars_day": {
