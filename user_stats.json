@@ -12,11 +12,12 @@
     "status": "👑Бог этого бота",
     "manual_status": true,
     "game": {
-      "coins": 80,
+      "coins": 60,
       "cards": {
         "sleepy": 2,
         "streamer": 1,
-        "newbie": 1
+        "newbie": 1,
+        "clipper": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -950,9 +951,42 @@
     "other_proposals": 0,
     "story": 0,
     "wishlist": 0,
-    "username": null,
+    "username": "eranperu",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 0,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "6892453040": {
     "questions_anonymous": 0,
