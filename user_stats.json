@@ -1646,9 +1646,9 @@
     "game": {
       "coins": 10,
       "cards": {
-        "spammer": 2,
+        "spammer": 1,
         "streamer": 1,
-        "viewer": 2,
+        "viewer": 1,
         "kind": 1,
         "mod": 1,
         "skeptic": 1,
@@ -1659,8 +1659,8 @@
         "sub": 2,
         "editor": 1,
         "memer": 2,
-        "hungry": 2,
-        "chatter": 2,
+        "hungry": 1,
+        "chatter": 1,
         "fan": 1,
         "evil": 2,
         "tiktoker": 1,
@@ -1694,7 +1694,7 @@
       "promos_used": [
         "ALONSOTG"
       ],
-      "trades": 1,
+      "trades": 2,
       "completed_ts": null,
       "contest_ver": 1,
       "show_stars": false,
