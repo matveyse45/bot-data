@@ -1000,7 +1000,6 @@
     "game": {
       "coins": 10,
       "cards": {
-        "skeptic": 1,
         "newbie": 1,
         "chatter": 1
       },
@@ -1015,7 +1014,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 3
+        "n": 4
       },
       "purchases": [],
       "stars_day": {
