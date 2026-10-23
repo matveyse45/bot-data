@@ -10,7 +10,168 @@
     "wishlist": 4,
     "username": "matvey_sport",
     "status": "👑Бог этого бота",
-    "manual_status": true
+    "manual_status": true,
+    "game": {
+      "cards": {
+        "alons": 1,
+        "clipper": 1,
+        "hungry": 1,
+        "ideator": 1,
+        "supporter": 1
+      },
+      "pvp_wins": 6,
+      "challenge": null,
+      "reward_notified": true,
+      "earned": {
+        "day": "2026-10-15",
+        "n": 8
+      },
+      "coins": 8077,
+      "paid_ids": [
+        "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
+      ],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "2026-10-13",
+        "n": 1
+      },
+      "purchases": [
+        {
+          "pack": "common",
+          "stars": 5,
+          "ts": 1791566318,
+          "charge": "stxQLgfwsl_SYH3iOeyo2ZE55tgtEZ2btQ6zwv0tvrERKHc7bpX4Wloe-6gV7pG0FROKaunE4Sb8KExMoDz2UTBolmTEHLKGouEiJB65rDFau0wTZy5i6P7bDRw4ZzM6P-t"
+        }
+      ],
+      "stars_spent": 5,
+      "daily": {
+        "last": "2026-10-21",
+        "streak": 2
+      },
+      "show_stars": false,
+      "stars_day": {
+        "day": "2026-10-09",
+        "n": 5
+      },
+      "promos_used": [
+        "WELCOME",
+        "ROMA",
+        "LEGEND",
+        "ROMABOSS2026",
+        "ALONSO2026",
+        "ROMANM"
+      ],
+      "trades": 17,
+      "completed_ts": 1791711951.1469412,
+      "contest_ver": 1,
+      "exchanges": [
+        {
+          "id": "B90EE3",
+          "reward": "circle",
+          "cards": {
+            "mod": 3,
+            "skeptic": 1,
+            "chatter": 3,
+            "supporter": 3,
+            "newbie": 1,
+            "viewer": 2
+          },
+          "value": 255,
+          "ts": 1791469439
+        },
+        {
+          "id": "4BF665",
+          "reward": "answer",
+          "cards": {
+            "viewer": 7,
+            "chatter": 3,
+            "hungry": 1,
+            "newbie": 1,
+            "skeptic": 2,
+            "supporter": 5,
+            "ideator": 6,
+            "mod": 1,
+            "streamer": 5,
+            "legend": 2
+          },
+          "value": 730,
+          "ts": 1791565799
+        },
+        {
+          "id": "028A05",
+          "reward": "answer",
+          "cards": {
+            "alonso": 1,
+            "boss": 1,
+            "og": 1,
+            "glam": 1,
+            "evil": 1,
+            "legend": 1,
+            "alons": 2,
+            "melon": 1,
+            "sly": 1,
+            "kind": 1
+          },
+          "value": 630,
+          "ts": 1791712294
+        },
+        {
+          "id": "553C80",
+          "reward": "congrats",
+          "cards": {
+            "og": 1,
+            "mod": 1,
+            "editor": 1,
+            "regular": 1,
+            "sub": 2,
+            "tiktoker": 1,
+            "happy": 1,
+            "sleepy": 1,
+            "ideator": 1,
+            "supporter": 1,
+            "skeptic": 2,
+            "fan": 1,
+            "clipper": 2,
+            "memer": 3,
+            "night": 1,
+            "spammer": 1,
+            "newbie": 1,
+            "hungry": 1,
+            "chatter": 1,
+            "viewer": 1
+          },
+          "value": 480,
+          "ts": 1791712330
+        }
+      ]
+    },
+    "ref": {
+      "invited": [
+        {
+          "uid": "5646960919",
+          "ts": 1791487877,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "5333405278",
+          "ts": 1791489734,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "2096458552",
+          "ts": 1791490146,
+          "coins": 110,
+          "cards": [
+            "glam"
+          ],
+          "rewarded": true
+        }
+      ]
+    }
   },
   "5750369141": {
     "questions_anonymous": 1,
@@ -105,8 +266,41 @@
     "other_proposals": 0,
     "story": 0,
     "wishlist": 0,
-    "username": null,
-    "status": "🌟 Новичок"
+    "username": "alonso_brat",
+    "status": "🌟 Новичок",
+    "game": {
+      "coins": 0,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "8103266002": {
     "questions_anonymous": 0,
@@ -130,7 +324,45 @@
     "story": 0,
     "wishlist": 0,
     "username": "alonso_agent",
-    "status": "💡 Идеатор"
+    "status": "💡 Идеатор",
+    "game": {
+      "cards": {
+        "supporter": 2,
+        "chatter": 1,
+        "mod": 1,
+        "ideator": 1
+      },
+      "pvp_wins": 2,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-06",
+        "n": 5
+      },
+      "coins": 20,
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_spent": 0,
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "daily": {
+        "last": "2026-10-11",
+        "streak": 1
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5813072646": {
     "questions_anonymous": 2,
@@ -142,7 +374,40 @@
     "story": 0,
     "wishlist": 0,
     "username": "PUBG_DEN4IK",
-    "status": "💬 Вопросник"
+    "status": "💬 Вопросник",
+    "game": {
+      "coins": 13,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-12",
+        "n": 13
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "1745796959": {
     "questions_anonymous": 3,
@@ -155,7 +420,40 @@
     "wishlist": 1,
     "username": "Xalate3",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5047693701": {
     "questions_anonymous": 1,
@@ -220,7 +518,51 @@
     "wishlist": 0,
     "username": "Egor_Sob1",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 230,
+      "cards": {
+        "tiktoker": 1,
+        "alons": 1,
+        "chatter": 1,
+        "night": 1,
+        "hungry": 1
+      },
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "2026-10-09",
+        "streak": 2
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "1254694598",
+      "ts": 1791489734,
+      "coins": 100
+    }
   },
   "1622800089": {
     "questions_anonymous": 5,
@@ -233,7 +575,74 @@
     "wishlist": 0,
     "username": "Mayakovsky111",
     "status": "Инсайд🍋",
-    "manual_status": true
+    "manual_status": true,
+    "game": {
+      "coins": 43,
+      "cards": {
+        "boss": 1,
+        "legend": 2,
+        "glam": 1,
+        "sly": 1,
+        "editor": 1,
+        "night": 1,
+        "skeptic": 1,
+        "chatter": 1,
+        "sleepy": 1,
+        "melon": 2,
+        "alons": 1,
+        "supporter": 1,
+        "sub": 3,
+        "spammer": 1,
+        "fan": 1,
+        "memer": 1,
+        "evil": 2
+      },
+      "pvp_wins": 2,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 25
+      },
+      "paid_ids": [
+        "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr",
+        "stxIQYhRti9hCBZrp3fCFCK_wHk_H2_C1RKrkQeLClPAjaesVOB9U81JhyVKwwuj5pvaq6x0gpRsDsZ1WgX4cB5kIhUZounfXFwiUcLX8x_9VvqdxElBW-QpSPQ3wQzQ7qh"
+      ],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "2026-10-09",
+        "n": 4
+      },
+      "purchases": [
+        {
+          "pack": "mega",
+          "stars": 50,
+          "ts": 1791543002,
+          "charge": "stxMUeHAFYwE5gKVUJvytmVWOCBrJDg9_JnMquFEQmifnPNAIRrjnTIduIUnbAf0lOdohnH4KhPuZeHxA1PSRbXw9WgmKrZZlFqEQFi1w7UPuiRHmyYGPrWDTphYoTQLaFr"
+        },
+        {
+          "pack": "mega",
+          "stars": 50,
+          "ts": 1791543304,
+          "charge": "stxIQYhRti9hCBZrp3fCFCK_wHk_H2_C1RKrkQeLClPAjaesVOB9U81JhyVKwwuj5pvaq6x0gpRsDsZ1WgX4cB5kIhUZounfXFwiUcLX8x_9VvqdxElBW-QpSPQ3wQzQ7qh"
+        }
+      ],
+      "stars_day": {
+        "day": "2026-10-09",
+        "n": 100
+      },
+      "stars_spent": 100,
+      "daily": {
+        "last": "2026-10-09",
+        "streak": 1
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5646960919": {
     "questions_anonymous": 0,
@@ -246,7 +655,45 @@
     "wishlist": 0,
     "username": "katepelazz",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "1254694598",
+      "ts": 1791487877,
+      "coins": 100
+    }
   },
   "2096458552": {
     "questions_anonymous": 2,
@@ -259,7 +706,51 @@
     "wishlist": 0,
     "username": "koliyren",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {
+        "evil": 1,
+        "newbie": 2,
+        "hungry": 1,
+        "tiktoker": 1,
+        "melon": 1
+      },
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "2026-10-12",
+        "streak": 1
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "1254694598",
+      "ts": 1791490146,
+      "coins": 100
+    }
   },
   "8374988485": {
     "questions_anonymous": 8,
@@ -285,7 +776,40 @@
     "wishlist": 0,
     "username": "Author_My_life",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-11",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5524983892": {
     "questions_anonymous": 1,
@@ -688,7 +1212,40 @@
     "wishlist": 0,
     "username": "vilka1513",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 16,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-09",
+        "n": 16
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "901314517": {
     "questions_anonymous": 1,
@@ -1442,7 +1999,51 @@
     "wishlist": 0,
     "username": "Dictor0",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 70,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "2026-10-09",
+        "streak": 1
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "invited": [
+        {
+          "uid": "8462770246",
+          "ts": 1791543682,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        }
+      ]
+    }
   },
   "8427410130": {
     "questions_anonymous": 0,
@@ -1468,7 +2069,210 @@
     "wishlist": 0,
     "username": "NullNyxx",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 10,
+      "cards": {
+        "streamer": 1,
+        "og": 1,
+        "sly": 1,
+        "newbie": 2,
+        "sub": 2,
+        "skeptic": 1,
+        "chatter": 1,
+        "fan": 1,
+        "ideator": 1,
+        "mod": 1,
+        "legend": 2,
+        "evil": 1,
+        "viewer": 1,
+        "memer": 2,
+        "editor": 1,
+        "kind": 1,
+        "alons": 1,
+        "alonso": 3,
+        "tiktoker": 1,
+        "night": 2,
+        "regular": 1,
+        "melon": 1,
+        "sleepy": 2,
+        "hungry": 1,
+        "happy": 2,
+        "spammer": 1,
+        "clipper": 1,
+        "supporter": 1,
+        "glam": 1
+      },
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 10
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "2026-10-23",
+        "streak": 3
+      },
+      "promos_used": [
+        "ROMA",
+        "LEGEND",
+        "WELCOME"
+      ],
+      "trades": 20,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "invited": [
+        {
+          "uid": "5451215809",
+          "ts": 1791662761,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "1488492959",
+          "ts": 1791663013,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "1926267562",
+          "ts": 1791672255,
+          "coins": 110,
+          "cards": [
+            "sly"
+          ],
+          "rewarded": true
+        },
+        {
+          "uid": "1117493617",
+          "ts": 1791672626,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "6370672619",
+          "ts": 1791673268,
+          "coins": 180,
+          "cards": [
+            "legend"
+          ],
+          "rewarded": true
+        },
+        {
+          "uid": "1549865763",
+          "ts": 1791673713,
+          "coins": 80,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "1644452562",
+          "ts": 1791673934,
+          "coins": 80,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "7651116708",
+          "ts": 1791674162,
+          "coins": 0,
+          "cards": [],
+          "rewarded": false
+        },
+        {
+          "uid": "8434266637",
+          "ts": 1791747870,
+          "coins": 0,
+          "cards": [],
+          "rewarded": false
+        },
+        {
+          "uid": "1405383817",
+          "ts": 1791754215,
+          "coins": 80,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "7350052379",
+          "ts": 1791754580,
+          "coins": 80,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "7276303440",
+          "ts": 1791754625,
+          "coins": 300,
+          "cards": [
+            "alonso"
+          ],
+          "rewarded": true
+        },
+        {
+          "uid": "1212226468",
+          "ts": 1791754642,
+          "coins": 100,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "8826230801",
+          "ts": 1791754719,
+          "coins": 100,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "1110722973",
+          "ts": 1791765974,
+          "coins": 0,
+          "cards": [],
+          "rewarded": false
+        },
+        {
+          "uid": "7285721804",
+          "ts": 1791889117,
+          "coins": 100,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "1351306954",
+          "ts": 1791889496,
+          "coins": 100,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "1620085328",
+          "ts": 1791891539,
+          "coins": 100,
+          "cards": [],
+          "rewarded": true
+        }
+      ]
+    }
   },
   "7207335246": {
     "questions_anonymous": 1,
@@ -1663,7 +2467,69 @@
     "wishlist": 0,
     "username": "uwemby",
     "status": "💬 Вопросник",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 10,
+      "cards": {
+        "sleepy": 1,
+        "editor": 1,
+        "ideator": 1,
+        "night": 1,
+        "mod": 1
+      },
+      "pvp_wins": 1,
+      "challenge": {
+        "id": "BD1486E5",
+        "card": "evil",
+        "rarity": "epic",
+        "ts": 1791819248.357231
+      },
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "2026-10-12",
+        "n": 2
+      },
+      "purchases": [],
+      "stars_spent": 0,
+      "daily": {
+        "last": "2026-10-12",
+        "streak": 1
+      },
+      "show_stars": true,
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "exchanges": []
+    },
+    "ref": {
+      "invited": [
+        {
+          "uid": "8986639859",
+          "ts": 1791797800,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "949834757",
+          "ts": 1791797813,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        }
+      ]
+    }
   },
   "665568352": {
     "questions_anonymous": 0,
@@ -1767,7 +2633,45 @@
     "wishlist": 0,
     "username": "lolilmao",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "8973603889",
+      "ts": 1791797800,
+      "coins": 100
+    }
   },
   "5922302856": {
     "questions_anonymous": 4,
@@ -1858,7 +2762,40 @@
     "wishlist": 0,
     "username": "One11068",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-11",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "1080145739": {
     "questions_anonymous": 0,
@@ -1959,7 +2896,40 @@
     "story": 0,
     "username": "pollixxm",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-08",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "8043906651": {
     "questions_anonymous": 0,
@@ -1971,7 +2941,40 @@
     "story": 0,
     "username": null,
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 8,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-09",
+        "n": 8
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5322752097": {
     "questions_anonymous": 0,
@@ -1983,7 +2986,40 @@
     "story": 0,
     "username": "saswg86",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 10,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-09",
+        "n": 10
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5056706946": {
     "questions_anonymous": 0,
@@ -1995,7 +3031,40 @@
     "story": 0,
     "username": "Irinaaaac",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 8,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-09",
+        "n": 8
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "6635129812": {
     "questions_anonymous": 0,
@@ -2007,7 +3076,40 @@
     "story": 0,
     "username": "selskyupaks",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 8,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-09",
+        "n": 8
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "8462770246": {
     "questions_anonymous": 0,
@@ -2019,7 +3121,45 @@
     "story": 0,
     "username": "chicksa0",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "5248418731",
+      "ts": 1791543682,
+      "coins": 100
+    }
   },
   "1153818344": {
     "questions_anonymous": 0,
@@ -2031,7 +3171,40 @@
     "story": 0,
     "username": "khromw",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 8,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-09",
+        "n": 8
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "8939886171": {
     "questions_anonymous": 1,
@@ -2043,7 +3216,40 @@
     "story": 0,
     "username": "destrap",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-10",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "6553388966": {
     "questions_anonymous": 0,
@@ -2055,7 +3261,40 @@
     "story": 0,
     "username": "metamfetanim",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 0,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5451215809": {
     "questions_anonymous": 0,
@@ -2067,7 +3306,45 @@
     "story": 0,
     "username": "vanillka_luv",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791662761,
+      "coins": 100
+    }
   },
   "1488492959": {
     "questions_anonymous": 0,
@@ -2079,7 +3356,45 @@
     "story": 0,
     "username": "Rel0ker",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791663013,
+      "coins": 100
+    }
   },
   "8447651569": {
     "questions_anonymous": 1,
@@ -2091,7 +3406,40 @@
     "story": 0,
     "username": "izmestev7",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-11",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "1926267562": {
     "questions_anonymous": 0,
@@ -2103,7 +3451,45 @@
     "story": 0,
     "username": "litran",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791672255,
+      "coins": 100
+    }
   },
   "1117493617": {
     "questions_anonymous": 0,
@@ -2115,7 +3501,45 @@
     "story": 0,
     "username": "keffffirchik",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791672626,
+      "coins": 100
+    }
   },
   "6370672619": {
     "questions_anonymous": 1,
@@ -2127,7 +3551,45 @@
     "story": 0,
     "username": "padllaaa",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 105,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-11",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791673268,
+      "coins": 100
+    }
   },
   "1549865763": {
     "questions_anonymous": 0,
@@ -2139,7 +3601,45 @@
     "story": 0,
     "username": "mayriix",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791673713,
+      "coins": 100
+    }
   },
   "1644452562": {
     "questions_anonymous": 0,
@@ -2151,7 +3651,45 @@
     "story": 0,
     "username": "Bunta_fujwara",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791673934,
+      "coins": 100
+    }
   },
   "7651116708": {
     "questions_anonymous": 0,
@@ -2163,7 +3701,45 @@
     "story": 0,
     "username": "Anton_in_dev",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791674162,
+      "coins": 100
+    }
   },
   "7260617383": {
     "questions_anonymous": 0,
@@ -2211,7 +3787,40 @@
     "story": 0,
     "username": "vptt23",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-11",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "7991894295": {
     "questions_anonymous": 0,
@@ -2259,7 +3868,40 @@
     "story": 0,
     "username": "skoree20",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 30,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 20
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "2026-10-12",
+        "streak": 1
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "1268989084": {
     "questions_anonymous": 1,
@@ -2271,7 +3913,40 @@
     "story": 0,
     "username": "Giro7388",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "7334559054": {
     "questions_anonymous": 0,
@@ -2283,7 +3958,40 @@
     "story": 0,
     "username": "mesertn",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 8,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-11",
+        "n": 8
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5785409167": {
     "questions_anonymous": 0,
@@ -2331,7 +4039,40 @@
     "story": 0,
     "username": "Gondonio222",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 15,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 10
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "6053755617": {
     "questions_anonymous": 0,
@@ -2355,7 +4096,40 @@
     "story": 0,
     "username": "sachelka_52",
     "status": "💬 Вопросник",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 25,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 25
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "8434266637": {
     "questions_anonymous": 0,
@@ -2367,7 +4141,45 @@
     "story": 0,
     "username": "rel0ker_dev_bot",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791747870,
+      "coins": 100
+    }
   },
   "1405383817": {
     "questions_anonymous": 0,
@@ -2379,7 +4191,45 @@
     "story": 0,
     "username": "swewig",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791754215,
+      "coins": 100
+    }
   },
   "7350052379": {
     "questions_anonymous": 0,
@@ -2391,7 +4241,45 @@
     "story": 0,
     "username": "Yaska_0089",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791754580,
+      "coins": 100
+    }
   },
   "7276303440": {
     "questions_anonymous": 0,
@@ -2403,7 +4291,45 @@
     "story": 0,
     "username": "Natysya_18",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791754625,
+      "coins": 100
+    }
   },
   "1212226468": {
     "questions_anonymous": 0,
@@ -2415,7 +4341,45 @@
     "story": 0,
     "username": "KiryushaSville",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791754642,
+      "coins": 100
+    }
   },
   "8826230801": {
     "questions_anonymous": 0,
@@ -2427,7 +4391,45 @@
     "story": 0,
     "username": "Yaniks_009",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791754719,
+      "coins": 100
+    }
   },
   "1110722973": {
     "questions_anonymous": 0,
@@ -2439,7 +4441,45 @@
     "story": 0,
     "username": "yyuarrr",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791765974,
+      "coins": 100
+    }
   },
   "949834757": {
     "questions_anonymous": 0,
@@ -2451,7 +4491,45 @@
     "story": 0,
     "username": "hub_AIsupport",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "8973603889",
+      "ts": 1791797813,
+      "coins": 100
+    }
   },
   "7285721804": {
     "questions_anonymous": 0,
@@ -2463,7 +4541,45 @@
     "story": 0,
     "username": "Vanushka2083",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791889117,
+      "coins": 100
+    }
   },
   "1351306954": {
     "questions_anonymous": 0,
@@ -2475,7 +4591,45 @@
     "story": 0,
     "username": "novitius",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791889496,
+      "coins": 100
+    }
   },
   "1620085328": {
     "questions_anonymous": 0,
@@ -2487,7 +4641,45 @@
     "story": 0,
     "username": "dueemm",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1791891539,
+      "coins": 100
+    }
   },
   "1089076378": {
     "questions_anonymous": 1,
@@ -2499,7 +4691,40 @@
     "story": 0,
     "username": "fordenius",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 13,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-15",
+        "n": 13
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "8093284910": {
     "questions_anonymous": 1,
@@ -2511,7 +4736,40 @@
     "story": 0,
     "username": "fscqver",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 13,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5618609989": {
     "questions_anonymous": 0,
@@ -2523,7 +4781,40 @@
     "story": 0,
     "username": "switziq",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 8,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-17",
+        "n": 8
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "7688004455": {
     "questions_anonymous": 1,
@@ -2535,7 +4826,40 @@
     "story": 0,
     "username": "joeglaoi",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "5016155065": {
     "questions_anonymous": 1,
@@ -2547,7 +4871,40 @@
     "story": 0,
     "username": "poikredmamont",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "908273702": {
     "questions_anonymous": 2,
@@ -2559,7 +4916,40 @@
     "story": 0,
     "username": "kkwssll",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 10,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 10
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "6307856060": {
     "questions_anonymous": 1,
@@ -2571,7 +4961,40 @@
     "story": 0,
     "username": "xyatit",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-18",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "7002531611": {
     "questions_anonymous": 0,
@@ -2583,7 +5006,40 @@
     "story": 0,
     "username": "Liliya_Bulava",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-19",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "7106417142": {
     "questions_anonymous": 1,
@@ -2595,6 +5051,39 @@
     "story": 0,
     "username": null,
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 5,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "2026-10-23",
+        "n": 5
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   }
 }
