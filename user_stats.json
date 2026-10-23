@@ -1644,11 +1644,11 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 50,
+      "coins": 30,
       "cards": {
         "spammer": 2,
         "streamer": 1,
-        "viewer": 1,
+        "viewer": 2,
         "kind": 1,
         "mod": 1,
         "skeptic": 1,
