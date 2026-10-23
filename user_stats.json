@@ -1637,7 +1637,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 240,
+      "coins": 270,
       "cards": {
         "spammer": 1,
         "streamer": 1,
@@ -1677,8 +1677,8 @@
       },
       "stars_spent": 0,
       "daily": {
-        "last": "2026-10-23",
-        "streak": 1
+        "last": "2026-10-24",
+        "streak": 2
       },
       "promos_used": [
         "ALONSOTG"
