@@ -3336,13 +3336,13 @@
         "skeptic": 1,
         "mod": 1,
         "supporter": 1,
-        "melon": 1,
+        "melon": 2,
         "viewer": 1,
         "fan": 1,
         "boss": 1,
         "alonso": 1
       },
-      "pvp_wins": 2,
+      "pvp_wins": 3,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -3353,7 +3353,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 2
+        "n": 3
       },
       "purchases": [],
       "stars_day": {
