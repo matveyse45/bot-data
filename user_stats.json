@@ -3110,14 +3110,15 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
         "hungry": 1,
         "night": 1,
         "spammer": 1,
         "tiktoker": 1,
         "clipper": 1,
-        "fan": 1
+        "fan": 1,
+        "alonso": 1
       },
       "pvp_wins": 0,
       "challenge": null,
