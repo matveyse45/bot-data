@@ -19,9 +19,10 @@
         "newbie": 1,
         "clipper": 1,
         "viewer": 2,
-        "mod": 1
+        "mod": 1,
+        "tiktoker": 1
       },
-      "pvp_wins": 0,
+      "pvp_wins": 1,
       "challenge": {
         "id": "05037D14",
         "card": "sleepy",
@@ -36,8 +37,8 @@
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-24",
+        "n": 1
       },
       "purchases": [],
       "stars_day": {
