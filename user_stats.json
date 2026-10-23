@@ -480,7 +480,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 0,
+      "coins": 100,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
@@ -505,7 +505,9 @@
         "last": "",
         "streak": 0
       },
-      "promos_used": [],
+      "promos_used": [
+        "ALONSOTG"
+      ],
       "trades": 0,
       "completed_ts": null,
       "contest_ver": 1,
