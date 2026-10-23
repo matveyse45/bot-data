@@ -3339,9 +3339,10 @@
         "melon": 1,
         "viewer": 1,
         "fan": 1,
-        "boss": 1
+        "boss": 1,
+        "alonso": 1
       },
-      "pvp_wins": 1,
+      "pvp_wins": 2,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -3352,7 +3353,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 1
+        "n": 2
       },
       "purchases": [],
       "stars_day": {
