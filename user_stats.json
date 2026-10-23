@@ -3395,10 +3395,7 @@
     "game": {
       "coins": 30,
       "cards": {
-        "viewer": 1,
         "sleepy": 1,
-        "evil": 1,
-        "streamer": 1,
         "skeptic": 1
       },
       "pvp_wins": 0,
@@ -3431,7 +3428,19 @@
       "completed_ts": null,
       "contest_ver": 1,
       "show_stars": false,
-      "exchanges": []
+      "exchanges": [
+        {
+          "id": "8AAF90",
+          "reward": "hello",
+          "cards": {
+            "evil": 1,
+            "streamer": 1,
+            "viewer": 1
+          },
+          "value": 105,
+          "ts": 1792790543
+        }
+      ]
     }
   }
 }
