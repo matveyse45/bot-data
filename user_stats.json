@@ -3492,12 +3492,13 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 50,
+      "coins": 30,
       "cards": {
         "clipper": 1,
         "evil": 1,
         "tiktoker": 1,
-        "viewer": 1
+        "viewer": 1,
+        "night": 1
       },
       "pvp_wins": 0,
       "challenge": null,
