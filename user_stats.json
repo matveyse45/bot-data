@@ -1639,7 +1639,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 230,
+      "coins": 210,
       "cards": {
         "spammer": 1,
         "streamer": 1,
@@ -1657,7 +1657,7 @@
         "hungry": 1,
         "chatter": 1,
         "fan": 1,
-        "evil": 1,
+        "evil": 2,
         "tiktoker": 1
       },
       "pvp_wins": 0,
