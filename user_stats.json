@@ -1644,7 +1644,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
         "spammer": 2,
         "streamer": 1,
@@ -1656,7 +1656,7 @@
         "ideator": 1,
         "clipper": 1,
         "melon": 1,
-        "sub": 1,
+        "sub": 2,
         "editor": 1,
         "memer": 2,
         "hungry": 2,
