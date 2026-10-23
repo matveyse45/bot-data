@@ -998,11 +998,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 70,
+      "coins": 50,
       "cards": {
         "newbie": 1,
         "chatter": 1,
-        "memer": 1
+        "memer": 1,
+        "streamer": 1
       },
       "pvp_wins": 1,
       "challenge": null,
