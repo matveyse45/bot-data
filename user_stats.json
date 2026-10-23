@@ -3204,12 +3204,13 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 150,
+      "coins": 130,
       "cards": {
         "editor": 1,
         "chatter": 1,
         "sub": 1,
-        "ideator": 1
+        "ideator": 1,
+        "alons": 1
       },
       "pvp_wins": 0,
       "challenge": null,
