@@ -14,7 +14,7 @@
     "game": {
       "coins": 0,
       "cards": {
-        "sleepy": 2,
+        "sleepy": 1,
         "streamer": 1,
         "newbie": 1,
         "clipper": 1,
@@ -22,7 +22,12 @@
         "mod": 1
       },
       "pvp_wins": 0,
-      "challenge": null,
+      "challenge": {
+        "id": "05037D14",
+        "card": "sleepy",
+        "rarity": "uncommon",
+        "ts": 1792789662.9292636
+      },
       "reward_notified": false,
       "earned": {
         "day": "",
