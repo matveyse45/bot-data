@@ -409,7 +409,40 @@
     "wishlist": 0,
     "username": "koliyren",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 0,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    }
   },
   "8374988485": {
     "questions_anonymous": 8,
@@ -3208,7 +3241,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
         "editor": 1,
         "chatter": 1,
@@ -3218,7 +3251,8 @@
         "clipper": 1,
         "memer": 2,
         "viewer": 1,
-        "regular": 1
+        "regular": 1,
+        "tiktoker": 1
       },
       "pvp_wins": 0,
       "challenge": null,
