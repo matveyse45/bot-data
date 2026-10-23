@@ -3393,9 +3393,10 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 110,
+      "coins": 90,
       "cards": {
-        "viewer": 1
+        "viewer": 1,
+        "sleepy": 1
       },
       "pvp_wins": 0,
       "challenge": null,
