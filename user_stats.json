@@ -1602,12 +1602,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 120,
       "cards": {
         "spammer": 1,
         "streamer": 3,
         "viewer": 1,
-        "kind": 1,
+        "kind": 2,
         "mod": 1,
         "skeptic": 1,
         "supporter": 2,
@@ -1622,7 +1622,16 @@
         "n": 0
       },
       "paid_ids": [],
-      "unrevealed": [],
+      "unrevealed": [
+        {
+          "cards": [
+            "kind"
+          ],
+          "new": [
+            false
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "",
         "n": 0
@@ -1660,6 +1669,15 @@
           "ts": 1792788997,
           "coins": 60,
           "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "1117493617",
+          "ts": 1792789103,
+          "coins": 110,
+          "cards": [
+            "kind"
+          ],
           "rewarded": true
         }
       ]
@@ -2348,7 +2366,45 @@
     "story": 0,
     "username": "keffffirchik",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "6296107121",
+      "ts": 1792789103,
+      "coins": 100
+    }
   },
   "6370672619": {
     "questions_anonymous": 1,
