@@ -3118,9 +3118,10 @@
         "tiktoker": 1,
         "clipper": 1,
         "fan": 1,
-        "alonso": 1
+        "alonso": 1,
+        "chatter": 1
       },
-      "pvp_wins": 1,
+      "pvp_wins": 2,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -3131,7 +3132,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 4
+        "n": 5
       },
       "purchases": [],
       "stars_day": {
