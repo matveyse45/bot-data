@@ -3324,10 +3324,11 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 190,
+      "coins": 170,
       "cards": {
         "chatter": 1,
-        "spammer": 1
+        "spammer": 1,
+        "night": 1
       },
       "pvp_wins": 0,
       "challenge": null,
