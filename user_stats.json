@@ -223,13 +223,14 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
         "fan": 1,
         "mod": 1,
         "regular": 1,
         "alons": 1,
-        "viewer": 1
+        "viewer": 1,
+        "tiktoker": 1
       },
       "pvp_wins": 0,
       "challenge": null,
