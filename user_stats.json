@@ -3602,12 +3602,13 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 50,
+      "coins": 30,
       "cards": {
         "memer": 1,
         "legend": 1,
         "sleepy": 1,
-        "editor": 1
+        "editor": 1,
+        "happy": 1
       },
       "pvp_wins": 0,
       "challenge": null,
