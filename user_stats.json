@@ -156,7 +156,7 @@
     "username": "alonso_brat",
     "status": "🌟 Новичок",
     "game": {
-      "coins": 0,
+      "coins": 30,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
@@ -178,8 +178,8 @@
       },
       "stars_spent": 0,
       "daily": {
-        "last": "",
-        "streak": 0
+        "last": "2026-10-24",
+        "streak": 1
       },
       "promos_used": [],
       "trades": 0,
