@@ -12,13 +12,13 @@
     "status": "👑Бог этого бота",
     "manual_status": true,
     "game": {
-      "coins": 40,
+      "coins": 20,
       "cards": {
         "sleepy": 2,
         "streamer": 1,
         "newbie": 1,
         "clipper": 1,
-        "viewer": 1
+        "viewer": 2
       },
       "pvp_wins": 0,
       "challenge": null,
