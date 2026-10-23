@@ -3393,12 +3393,13 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 50,
+      "coins": 30,
       "cards": {
         "viewer": 1,
         "sleepy": 1,
         "evil": 1,
-        "streamer": 1
+        "streamer": 1,
+        "skeptic": 1
       },
       "pvp_wins": 0,
       "challenge": null,
