@@ -3199,8 +3199,10 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 230,
-      "cards": {},
+      "coins": 210,
+      "cards": {
+        "editor": 1
+      },
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
