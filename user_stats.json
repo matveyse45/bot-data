@@ -3324,7 +3324,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 70,
+      "coins": 50,
       "cards": {
         "chatter": 1,
         "spammer": 1,
@@ -3332,7 +3332,8 @@
         "skeptic": 1,
         "mod": 1,
         "supporter": 1,
-        "melon": 1
+        "melon": 1,
+        "viewer": 1
       },
       "pvp_wins": 0,
       "challenge": null,
