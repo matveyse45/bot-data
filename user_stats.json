@@ -957,13 +957,14 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
         "viewer": 1,
         "hungry": 1,
         "skeptic": 1,
         "newbie": 1,
-        "tiktoker": 1
+        "tiktoker": 1,
+        "chatter": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -3207,7 +3208,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 50,
+      "coins": 30,
       "cards": {
         "editor": 1,
         "chatter": 1,
@@ -3216,7 +3217,8 @@
         "alons": 1,
         "clipper": 1,
         "memer": 2,
-        "viewer": 1
+        "viewer": 1,
+        "regular": 1
       },
       "pvp_wins": 0,
       "challenge": null,
