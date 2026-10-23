@@ -3548,12 +3548,13 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 50,
+      "coins": 30,
       "cards": {
         "editor": 1,
         "viewer": 1,
         "melon": 1,
-        "skeptic": 1
+        "skeptic": 1,
+        "boss": 1
       },
       "pvp_wins": 0,
       "challenge": null,
