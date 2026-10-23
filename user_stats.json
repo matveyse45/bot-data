@@ -1605,14 +1605,15 @@
       "coins": 120,
       "cards": {
         "spammer": 1,
-        "streamer": 3,
+        "streamer": 1,
         "viewer": 1,
-        "kind": 2,
+        "kind": 1,
         "mod": 1,
         "skeptic": 1,
         "supporter": 2,
         "ideator": 1,
-        "clipper": 1
+        "clipper": 1,
+        "melon": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -1640,7 +1641,7 @@
       "promos_used": [
         "ALONSOTG"
       ],
-      "trades": 0,
+      "trades": 1,
       "completed_ts": null,
       "contest_ver": 1,
       "show_stars": false,
