@@ -3332,7 +3332,7 @@
       "cards": {
         "chatter": 1,
         "spammer": 1,
-        "night": 2,
+        "night": 3,
         "skeptic": 1,
         "mod": 1,
         "supporter": 1,
@@ -3341,7 +3341,7 @@
         "fan": 1,
         "boss": 1
       },
-      "pvp_wins": 0,
+      "pvp_wins": 1,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -3351,8 +3351,8 @@
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-24",
+        "n": 1
       },
       "purchases": [],
       "stars_day": {
