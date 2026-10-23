@@ -1640,9 +1640,9 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 210,
+      "coins": 190,
       "cards": {
-        "spammer": 1,
+        "spammer": 2,
         "streamer": 1,
         "viewer": 1,
         "kind": 1,
