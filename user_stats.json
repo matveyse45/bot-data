@@ -420,9 +420,7 @@
     "manual_status": false,
     "game": {
       "coins": 10,
-      "cards": {
-        "hungry": 1
-      },
+      "cards": {},
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
@@ -433,8 +431,8 @@
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-24",
+        "n": 1
       },
       "purchases": [],
       "stars_day": {
