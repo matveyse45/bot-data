@@ -3068,9 +3068,9 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 40,
+      "coins": 20,
       "cards": {
-        "clipper": 1,
+        "clipper": 2,
         "sleepy": 1,
         "streamer": 1,
         "skeptic": 1,
