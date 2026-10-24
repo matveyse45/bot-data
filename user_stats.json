@@ -4680,7 +4680,7 @@
       "trades": 0,
       "completed_ts": null,
       "contest_ver": 1,
-      "show_stars": false,
+      "show_stars": true,
       "exchanges": []
     }
   }
