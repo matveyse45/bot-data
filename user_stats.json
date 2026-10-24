@@ -2285,12 +2285,16 @@
         "streamer": 1,
         "tiktoker": 1,
         "regular": 1,
-        "spammer": 1,
         "chatter": 1,
         "clipper": 1
       },
       "pvp_wins": 2,
-      "challenge": null,
+      "challenge": {
+        "id": "DDE868EA",
+        "card": "spammer",
+        "rarity": "common",
+        "ts": 1792829421.0033054
+      },
       "reward_notified": false,
       "earned": {
         "day": "",
