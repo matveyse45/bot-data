@@ -2721,7 +2721,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 40,
+      "coins": 20,
       "cards": {
         "spammer": 1,
         "clipper": 1,
@@ -2738,7 +2738,7 @@
         "newbie": 1,
         "memer": 1,
         "kind": 1,
-        "tiktoker": 1
+        "tiktoker": 2
       },
       "pvp_wins": 0,
       "challenge": null,
