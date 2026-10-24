@@ -4545,22 +4545,7 @@
         "stxR8CrzI2tJn8TC1O9awyRfgMi52YoRvfhc74sF3ywhSKpy45Gk4qEYyvNqdpe1tcI4Fq17Z7Eg7_0hH8RRWPNRyv-YUQB_mHbBV55RPVSl8rM65yXE9Br78OZ5uDzhvPF",
         "stx4Hnbf4gS7iBsf600h7JShlLfCXtRG2F7MzNUCqS7AAww48EsGalFPU9PR14mq8to3SUYQJo29dda3tHoQO54W17bt7OklMy9a6VmLxXqnlzlkPe082gv6q63XQMPejcT"
       ],
-      "unrevealed": [
-        {
-          "cards": [
-            "melon",
-            "sub",
-            "editor",
-            "tiktoker"
-          ],
-          "new": [
-            true,
-            false,
-            true,
-            true
-          ]
-        }
-      ],
+      "unrevealed": [],
       "pvp_day": {
         "day": "",
         "n": 0
