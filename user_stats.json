@@ -2721,7 +2721,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 120,
+      "coins": 180,
       "cards": {
         "spammer": 1,
         "clipper": 1,
@@ -2799,6 +2799,13 @@
           "cards": [
             "streamer"
           ],
+          "rewarded": true
+        },
+        {
+          "uid": "8572273629",
+          "ts": 1792817831,
+          "coins": 60,
+          "cards": [],
           "rewarded": true
         }
       ]
@@ -3932,8 +3939,46 @@
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": null,
+    "username": "Andrukha27",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "1686862198",
+      "ts": 1792817831,
+      "coins": 100
+    }
   }
 }
