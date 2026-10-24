@@ -4516,10 +4516,11 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 60,
+      "coins": 40,
       "cards": {
         "spammer": 1,
-        "happy": 1
+        "happy": 1,
+        "memer": 1
       },
       "pvp_wins": 0,
       "challenge": null,
