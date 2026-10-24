@@ -4330,7 +4330,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 110,
       "cards": {
         "spammer": 1,
         "viewer": 1
@@ -4358,7 +4358,9 @@
         "last": "2026-10-24",
         "streak": 1
       },
-      "promos_used": [],
+      "promos_used": [
+        "ALONSOTG"
+      ],
       "trades": 0,
       "completed_ts": null,
       "contest_ver": 1,
