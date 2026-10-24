@@ -2279,9 +2279,10 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 90,
+      "coins": 70,
       "cards": {
-        "ideator": 1
+        "ideator": 1,
+        "clipper": 1
       },
       "pvp_wins": 0,
       "challenge": null,
