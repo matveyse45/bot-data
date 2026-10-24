@@ -4519,10 +4519,17 @@
       "coins": 0,
       "cards": {
         "spammer": 1,
-        "happy": 1,
+        "happy": 2,
         "memer": 1,
-        "fan": 1,
-        "ideator": 1
+        "fan": 2,
+        "ideator": 2,
+        "glam": 1,
+        "streamer": 1,
+        "boss": 1,
+        "alons": 1,
+        "chatter": 2,
+        "sub": 1,
+        "sleepy": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -4531,18 +4538,56 @@
         "day": "",
         "n": 0
       },
-      "paid_ids": [],
-      "unrevealed": [],
+      "paid_ids": [
+        "stxR8CrzI2tJn8TC1O9awyRfgMi52YoRvfhc74sF3ywhSKpy45Gk4qEYyvNqdpe1tcI4Fq17Z7Eg7_0hH8RRWPNRyv-YUQB_mHbBV55RPVSl8rM65yXE9Br78OZ5uDzhvPF"
+      ],
+      "unrevealed": [
+        {
+          "cards": [
+            "glam",
+            "streamer",
+            "boss",
+            "happy",
+            "alons",
+            "chatter",
+            "fan",
+            "sub",
+            "ideator",
+            "sleepy",
+            "chatter"
+          ],
+          "new": [
+            true,
+            true,
+            true,
+            false,
+            true,
+            true,
+            false,
+            true,
+            false,
+            true,
+            false
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "",
         "n": 0
       },
-      "purchases": [],
+      "purchases": [
+        {
+          "pack": "mega",
+          "stars": 199,
+          "ts": 1792843388,
+          "charge": "stxR8CrzI2tJn8TC1O9awyRfgMi52YoRvfhc74sF3ywhSKpy45Gk4qEYyvNqdpe1tcI4Fq17Z7Eg7_0hH8RRWPNRyv-YUQB_mHbBV55RPVSl8rM65yXE9Br78OZ5uDzhvPF"
+        }
+      ],
       "stars_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-24",
+        "n": 199
       },
-      "stars_spent": 0,
+      "stars_spent": 199,
       "daily": {
         "last": "",
         "streak": 0
