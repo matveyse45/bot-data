@@ -2750,16 +2750,7 @@
         "n": 0
       },
       "paid_ids": [],
-      "unrevealed": [
-        {
-          "cards": [
-            "og"
-          ],
-          "new": [
-            true
-          ]
-        }
-      ],
+      "unrevealed": [],
       "pvp_day": {
         "day": "",
         "n": 0
