@@ -12,7 +12,7 @@
     "status": "👑Бог этого бота",
     "manual_status": true,
     "game": {
-      "coins": 0,
+      "coins": 40,
       "cards": {
         "sleepy": 1,
         "streamer": 1,
@@ -51,7 +51,8 @@
         "streak": 2
       },
       "promos_used": [
-        "ALONSOTG"
+        "ALONSOTG",
+        "MATVEYBOOS"
       ],
       "trades": 0,
       "completed_ts": null,
