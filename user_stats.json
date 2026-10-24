@@ -3068,7 +3068,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 0,
+      "coins": 40,
       "cards": {
         "clipper": 1,
         "sleepy": 1,
@@ -3101,7 +3101,8 @@
         "streak": 2
       },
       "promos_used": [
-        "ALONSOTG"
+        "ALONSOTG",
+        "MATVEYBOOS"
       ],
       "trades": 0,
       "completed_ts": null,
