@@ -2729,9 +2729,9 @@
         "sub": 2,
         "glam": 1,
         "ideator": 2,
-        "fan": 3,
+        "fan": 2,
         "mod": 1,
-        "viewer": 1,
+        "viewer": 2,
         "sleepy": 1,
         "streamer": 2,
         "evil": 1,
@@ -2741,7 +2741,7 @@
         "tiktoker": 2,
         "supporter": 1,
         "og": 1,
-        "chatter": 5,
+        "chatter": 1,
         "editor": 1,
         "night": 1
       },
@@ -2771,7 +2771,7 @@
       "promos_used": [
         "ALONSOTG"
       ],
-      "trades": 0,
+      "trades": 1,
       "completed_ts": null,
       "contest_ver": 1,
       "show_stars": false,
