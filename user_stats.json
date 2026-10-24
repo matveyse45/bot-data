@@ -4541,36 +4541,7 @@
       "paid_ids": [
         "stxR8CrzI2tJn8TC1O9awyRfgMi52YoRvfhc74sF3ywhSKpy45Gk4qEYyvNqdpe1tcI4Fq17Z7Eg7_0hH8RRWPNRyv-YUQB_mHbBV55RPVSl8rM65yXE9Br78OZ5uDzhvPF"
       ],
-      "unrevealed": [
-        {
-          "cards": [
-            "glam",
-            "streamer",
-            "boss",
-            "happy",
-            "alons",
-            "chatter",
-            "fan",
-            "sub",
-            "ideator",
-            "sleepy",
-            "chatter"
-          ],
-          "new": [
-            true,
-            true,
-            true,
-            false,
-            true,
-            true,
-            false,
-            true,
-            false,
-            true,
-            false
-          ]
-        }
-      ],
+      "unrevealed": [],
       "pvp_day": {
         "day": "",
         "n": 0
