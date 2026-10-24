@@ -468,8 +468,7 @@
       "coins": 10,
       "cards": {
         "mod": 1,
-        "memer": 1,
-        "clipper": 1
+        "memer": 1
       },
       "pvp_wins": 1,
       "challenge": null,
@@ -482,7 +481,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 2
+        "n": 3
       },
       "purchases": [],
       "stars_day": {
