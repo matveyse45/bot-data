@@ -2721,7 +2721,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 70,
       "cards": {
         "spammer": 1,
         "clipper": 1,
@@ -2760,6 +2760,17 @@
       "contest_ver": 1,
       "show_stars": false,
       "exchanges": []
+    },
+    "ref": {
+      "invited": [
+        {
+          "uid": "6300828685",
+          "ts": 1792816173,
+          "coins": 60,
+          "cards": [],
+          "rewarded": true
+        }
+      ]
     }
   },
   "8939515715": {
@@ -3693,8 +3704,46 @@
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": null,
+    "username": "bolno1s",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "1686862198",
+      "ts": 1792816173,
+      "coins": 100
+    }
   }
 }
