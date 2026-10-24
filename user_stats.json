@@ -4324,9 +4324,10 @@
     "game": {
       "coins": 10,
       "cards": {
-        "spammer": 1
+        "spammer": 1,
+        "viewer": 1
       },
-      "pvp_wins": 0,
+      "pvp_wins": 1,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -4336,8 +4337,8 @@
       "paid_ids": [],
       "unrevealed": [],
       "pvp_day": {
-        "day": "",
-        "n": 0
+        "day": "2026-10-24",
+        "n": 1
       },
       "purchases": [],
       "stars_day": {
