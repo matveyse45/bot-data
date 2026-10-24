@@ -4516,8 +4516,10 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 100,
-      "cards": {},
+      "coins": 80,
+      "cards": {
+        "spammer": 1
+      },
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
