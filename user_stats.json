@@ -3172,11 +3172,12 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 70,
+      "coins": 50,
       "cards": {
         "memer": 1,
         "skeptic": 1,
-        "night": 1
+        "night": 1,
+        "clipper": 1
       },
       "pvp_wins": 0,
       "challenge": null,
