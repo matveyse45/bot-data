@@ -4647,7 +4647,7 @@
         "spammer": 1,
         "ideator": 1,
         "newbie": 1,
-        "viewer": 2,
+        "viewer": 1,
         "skeptic": 1
       },
       "pvp_wins": 3,
@@ -4661,7 +4661,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 3
+        "n": 4
       },
       "purchases": [],
       "stars_day": {
