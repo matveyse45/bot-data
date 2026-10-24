@@ -395,7 +395,7 @@
     "game": {
       "coins": 0,
       "cards": {
-        "night": 2,
+        "night": 1,
         "mod": 1,
         "ideator": 1,
         "hungry": 2,
@@ -413,7 +413,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 2
+        "n": 3
       },
       "purchases": [],
       "stars_day": {
