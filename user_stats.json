@@ -2279,12 +2279,13 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
         "ideator": 1,
         "clipper": 1,
         "streamer": 1,
-        "tiktoker": 1
+        "tiktoker": 1,
+        "regular": 1
       },
       "pvp_wins": 0,
       "challenge": null,
