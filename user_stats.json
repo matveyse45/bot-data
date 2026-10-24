@@ -4528,8 +4528,11 @@
         "boss": 1,
         "alons": 1,
         "chatter": 2,
-        "sub": 1,
-        "sleepy": 1
+        "sub": 2,
+        "sleepy": 1,
+        "melon": 1,
+        "editor": 1,
+        "tiktoker": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -4539,9 +4542,25 @@
         "n": 0
       },
       "paid_ids": [
-        "stxR8CrzI2tJn8TC1O9awyRfgMi52YoRvfhc74sF3ywhSKpy45Gk4qEYyvNqdpe1tcI4Fq17Z7Eg7_0hH8RRWPNRyv-YUQB_mHbBV55RPVSl8rM65yXE9Br78OZ5uDzhvPF"
+        "stxR8CrzI2tJn8TC1O9awyRfgMi52YoRvfhc74sF3ywhSKpy45Gk4qEYyvNqdpe1tcI4Fq17Z7Eg7_0hH8RRWPNRyv-YUQB_mHbBV55RPVSl8rM65yXE9Br78OZ5uDzhvPF",
+        "stx4Hnbf4gS7iBsf600h7JShlLfCXtRG2F7MzNUCqS7AAww48EsGalFPU9PR14mq8to3SUYQJo29dda3tHoQO54W17bt7OklMy9a6VmLxXqnlzlkPe082gv6q63XQMPejcT"
       ],
-      "unrevealed": [],
+      "unrevealed": [
+        {
+          "cards": [
+            "melon",
+            "sub",
+            "editor",
+            "tiktoker"
+          ],
+          "new": [
+            true,
+            false,
+            true,
+            true
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "",
         "n": 0
@@ -4552,13 +4571,19 @@
           "stars": 199,
           "ts": 1792843388,
           "charge": "stxR8CrzI2tJn8TC1O9awyRfgMi52YoRvfhc74sF3ywhSKpy45Gk4qEYyvNqdpe1tcI4Fq17Z7Eg7_0hH8RRWPNRyv-YUQB_mHbBV55RPVSl8rM65yXE9Br78OZ5uDzhvPF"
+        },
+        {
+          "pack": "rare",
+          "stars": 49,
+          "ts": 1792843474,
+          "charge": "stx4Hnbf4gS7iBsf600h7JShlLfCXtRG2F7MzNUCqS7AAww48EsGalFPU9PR14mq8to3SUYQJo29dda3tHoQO54W17bt7OklMy9a6VmLxXqnlzlkPe082gv6q63XQMPejcT"
         }
       ],
       "stars_day": {
         "day": "2026-10-24",
-        "n": 199
+        "n": 248
       },
-      "stars_spent": 199,
+      "stars_spent": 248,
       "daily": {
         "last": "",
         "streak": 0
