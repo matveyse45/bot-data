@@ -2880,9 +2880,10 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 120,
+      "coins": 100,
       "cards": {
-        "clipper": 1
+        "clipper": 1,
+        "sleepy": 1
       },
       "pvp_wins": 0,
       "challenge": null,
