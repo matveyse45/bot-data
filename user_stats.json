@@ -3068,14 +3068,15 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 20,
+      "coins": 0,
       "cards": {
         "clipper": 2,
         "sleepy": 1,
         "streamer": 1,
         "skeptic": 1,
         "ideator": 2,
-        "hungry": 1
+        "hungry": 1,
+        "legend": 1
       },
       "pvp_wins": 0,
       "challenge": null,
