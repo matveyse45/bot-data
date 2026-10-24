@@ -2285,7 +2285,6 @@
         "streamer": 1,
         "tiktoker": 1,
         "regular": 1,
-        "chatter": 1,
         "clipper": 1
       },
       "pvp_wins": 2,
@@ -4338,15 +4337,12 @@
         "sly": 1,
         "newbie": 1,
         "spammer": 1,
-        "viewer": 1
+        "viewer": 1,
+        "fan": 1,
+        "chatter": 1
       },
-      "pvp_wins": 3,
-      "challenge": {
-        "id": "A3A5EDFC",
-        "card": "fan",
-        "rarity": "common",
-        "ts": 1792829500.5956478
-      },
+      "pvp_wins": 4,
+      "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "",
