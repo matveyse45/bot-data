@@ -4330,12 +4330,13 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 70,
+      "coins": 50,
       "cards": {
         "spammer": 1,
         "viewer": 1,
         "og": 1,
-        "sub": 1
+        "sub": 1,
+        "sly": 1
       },
       "pvp_wins": 1,
       "challenge": null,
