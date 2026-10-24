@@ -2285,10 +2285,11 @@
         "streamer": 1,
         "tiktoker": 1,
         "regular": 1,
-        "clipper": 1,
-        "spammer": 1
+        "spammer": 1,
+        "chatter": 1,
+        "clipper": 1
       },
-      "pvp_wins": 1,
+      "pvp_wins": 2,
       "challenge": null,
       "reward_notified": false,
       "earned": {
@@ -4340,12 +4341,7 @@
         "newbie": 1
       },
       "pvp_wins": 1,
-      "challenge": {
-        "id": "8F285AE5",
-        "card": "chatter",
-        "rarity": "common",
-        "ts": 1792829365.7053165
-      },
+      "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "",
