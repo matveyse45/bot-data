@@ -4640,9 +4640,9 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 30,
+      "coins": 10,
       "cards": {
-        "chatter": 1,
+        "chatter": 2,
         "sly": 1,
         "spammer": 1,
         "ideator": 1,
