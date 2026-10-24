@@ -395,10 +395,10 @@
     "status": "Инсайд🍋",
     "manual_status": true,
     "game": {
-      "coins": 20,
+      "coins": 0,
       "cards": {
         "night": 2,
-        "mod": 1,
+        "mod": 2,
         "ideator": 1,
         "hungry": 1,
         "alons": 1,
