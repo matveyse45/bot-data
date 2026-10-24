@@ -1834,7 +1834,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 50,
       "cards": {
         "spammer": 1,
         "streamer": 1,
@@ -1882,7 +1882,8 @@
         "streak": 2
       },
       "promos_used": [
-        "ALONSOTG"
+        "ALONSOTG",
+        "MATVEYBOOS"
       ],
       "trades": 2,
       "completed_ts": null,
