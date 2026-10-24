@@ -2899,12 +2899,13 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 60,
+      "coins": 40,
       "cards": {
         "clipper": 1,
         "sleepy": 1,
         "streamer": 1,
-        "skeptic": 1
+        "skeptic": 1,
+        "ideator": 1
       },
       "pvp_wins": 0,
       "challenge": null,
