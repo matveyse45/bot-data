@@ -393,7 +393,7 @@
     "status": "Инсайд🍋",
     "manual_status": true,
     "game": {
-      "coins": 30,
+      "coins": 60,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
@@ -415,8 +415,8 @@
       },
       "stars_spent": 0,
       "daily": {
-        "last": "2026-10-23",
-        "streak": 1
+        "last": "2026-10-24",
+        "streak": 2
       },
       "promos_used": [],
       "trades": 0,
