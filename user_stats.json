@@ -395,7 +395,6 @@
     "game": {
       "coins": 140,
       "cards": {
-        "fan": 1,
         "night": 1
       },
       "pvp_wins": 1,
@@ -409,7 +408,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 1
+        "n": 2
       },
       "purchases": [],
       "stars_day": {
