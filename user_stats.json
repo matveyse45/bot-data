@@ -12,7 +12,7 @@
     "status": "👑Бог этого бота",
     "manual_status": true,
     "game": {
-      "coins": 40,
+      "coins": 20,
       "cards": {
         "sleepy": 1,
         "streamer": 1,
@@ -20,7 +20,8 @@
         "clipper": 1,
         "viewer": 2,
         "mod": 1,
-        "tiktoker": 1
+        "tiktoker": 1,
+        "skeptic": 1
       },
       "pvp_wins": 2,
       "challenge": {
