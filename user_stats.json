@@ -2289,12 +2289,7 @@
         "clipper": 1
       },
       "pvp_wins": 2,
-      "challenge": {
-        "id": "DDE868EA",
-        "card": "spammer",
-        "rarity": "common",
-        "ts": 1792829421.0033054
-      },
+      "challenge": null,
       "reward_notified": false,
       "earned": {
         "day": "",
@@ -4338,14 +4333,15 @@
     "game": {
       "coins": 10,
       "cards": {
-        "viewer": 1,
         "og": 1,
         "sub": 1,
         "sly": 1,
         "newbie": 1,
-        "fan": 1
+        "fan": 1,
+        "spammer": 1,
+        "viewer": 1
       },
-      "pvp_wins": 2,
+      "pvp_wins": 3,
       "challenge": null,
       "reward_notified": false,
       "earned": {
