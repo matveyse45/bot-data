@@ -393,11 +393,12 @@
     "status": "Инсайд🍋",
     "manual_status": true,
     "game": {
-      "coins": 100,
+      "coins": 80,
       "cards": {
         "night": 1,
         "mod": 1,
-        "ideator": 1
+        "ideator": 1,
+        "hungry": 1
       },
       "pvp_wins": 1,
       "challenge": null,
