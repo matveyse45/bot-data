@@ -16,13 +16,13 @@
       "cards": {
         "sleepy": 1,
         "streamer": 1,
-        "newbie": 1,
+        "newbie": 2,
         "clipper": 1,
         "viewer": 2,
         "mod": 1,
         "tiktoker": 1
       },
-      "pvp_wins": 1,
+      "pvp_wins": 2,
       "challenge": {
         "id": "05037D14",
         "card": "sleepy",
@@ -38,7 +38,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 1
+        "n": 2
       },
       "purchases": [],
       "stars_day": {
