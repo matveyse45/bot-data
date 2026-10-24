@@ -2721,7 +2721,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 40,
+      "coins": 20,
       "cards": {
         "spammer": 1,
         "clipper": 2,
@@ -2741,7 +2741,7 @@
         "tiktoker": 2,
         "supporter": 1,
         "og": 1,
-        "chatter": 3,
+        "chatter": 4,
         "editor": 1,
         "night": 1
       },
