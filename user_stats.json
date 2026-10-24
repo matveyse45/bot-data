@@ -398,7 +398,7 @@
         "night": 2,
         "mod": 1,
         "ideator": 1,
-        "hungry": 2,
+        "hungry": 1,
         "alons": 1,
         "sleepy": 1
       },
@@ -413,7 +413,7 @@
       "unrevealed": [],
       "pvp_day": {
         "day": "2026-10-24",
-        "n": 4
+        "n": 5
       },
       "purchases": [],
       "stars_day": {
