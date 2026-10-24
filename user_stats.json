@@ -2721,10 +2721,11 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 90,
+      "coins": 70,
       "cards": {
         "spammer": 1,
-        "clipper": 1
+        "clipper": 1,
+        "melon": 1
       },
       "pvp_wins": 0,
       "challenge": null,
