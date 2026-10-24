@@ -2721,7 +2721,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 120,
       "cards": {
         "spammer": 1,
         "clipper": 1,
@@ -2732,7 +2732,8 @@
         "fan": 1,
         "mod": 1,
         "viewer": 1,
-        "sleepy": 1
+        "sleepy": 1,
+        "streamer": 1
       },
       "pvp_wins": 0,
       "challenge": null,
@@ -2742,7 +2743,16 @@
         "n": 0
       },
       "paid_ids": [],
-      "unrevealed": [],
+      "unrevealed": [
+        {
+          "cards": [
+            "streamer"
+          ],
+          "new": [
+            true
+          ]
+        }
+      ],
       "pvp_day": {
         "day": "",
         "n": 0
@@ -2780,6 +2790,15 @@
           "ts": 1792816343,
           "coins": 60,
           "cards": [],
+          "rewarded": true
+        },
+        {
+          "uid": "8640297539",
+          "ts": 1792817818,
+          "coins": 110,
+          "cards": [
+            "streamer"
+          ],
           "rewarded": true
         }
       ]
@@ -3863,8 +3882,46 @@
     "cooperation": 0,
     "other_proposals": 0,
     "story": 0,
-    "username": null,
+    "username": "damikk675",
     "status": "🌟 Новичок",
-    "manual_status": false
+    "manual_status": false,
+    "game": {
+      "coins": 100,
+      "cards": {},
+      "pvp_wins": 0,
+      "challenge": null,
+      "reward_notified": false,
+      "earned": {
+        "day": "",
+        "n": 0
+      },
+      "paid_ids": [],
+      "unrevealed": [],
+      "pvp_day": {
+        "day": "",
+        "n": 0
+      },
+      "purchases": [],
+      "stars_day": {
+        "day": "",
+        "n": 0
+      },
+      "stars_spent": 0,
+      "daily": {
+        "last": "",
+        "streak": 0
+      },
+      "promos_used": [],
+      "trades": 0,
+      "completed_ts": null,
+      "contest_ver": 1,
+      "show_stars": false,
+      "exchanges": []
+    },
+    "ref": {
+      "by": "1686862198",
+      "ts": 1792817818,
+      "coins": 100
+    }
   }
 }
