@@ -2721,7 +2721,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 70,
+      "coins": 50,
       "cards": {
         "spammer": 1,
         "clipper": 1,
@@ -2729,7 +2729,8 @@
         "sub": 2,
         "glam": 1,
         "ideator": 2,
-        "fan": 1
+        "fan": 1,
+        "mod": 1
       },
       "pvp_wins": 0,
       "challenge": null,
