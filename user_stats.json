@@ -2880,7 +2880,7 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 10,
+      "coins": 110,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
@@ -2905,7 +2905,9 @@
         "last": "2026-10-23",
         "streak": 1
       },
-      "promos_used": [],
+      "promos_used": [
+        "ALONSOTG"
+      ],
       "trades": 0,
       "completed_ts": null,
       "contest_ver": 1,
