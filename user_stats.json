@@ -4337,11 +4337,15 @@
         "og": 1,
         "sub": 1,
         "sly": 1,
-        "newbie": 1,
-        "chatter": 1
+        "newbie": 1
       },
       "pvp_wins": 1,
-      "challenge": null,
+      "challenge": {
+        "id": "8F285AE5",
+        "card": "chatter",
+        "rarity": "common",
+        "ts": 1792829365.7053165
+      },
       "reward_notified": false,
       "earned": {
         "day": "",
