@@ -393,8 +393,10 @@
     "status": "Инсайд🍋",
     "manual_status": true,
     "game": {
-      "coins": 160,
-      "cards": {},
+      "coins": 140,
+      "cards": {
+        "fan": 1
+      },
       "pvp_wins": 0,
       "challenge": null,
       "reward_notified": false,
