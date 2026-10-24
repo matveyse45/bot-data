@@ -4640,9 +4640,10 @@
     "status": "🌟 Новичок",
     "manual_status": false,
     "game": {
-      "coins": 110,
+      "coins": 90,
       "cards": {
-        "chatter": 1
+        "chatter": 1,
+        "sly": 1
       },
       "pvp_wins": 0,
       "challenge": null,
