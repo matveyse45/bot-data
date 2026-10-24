@@ -393,7 +393,7 @@
     "status": "Инсайд🍋",
     "manual_status": true,
     "game": {
-      "coins": 60,
+      "coins": 160,
       "cards": {},
       "pvp_wins": 0,
       "challenge": null,
@@ -418,7 +418,9 @@
         "last": "2026-10-24",
         "streak": 2
       },
-      "promos_used": [],
+      "promos_used": [
+        "ALONSOTG"
+      ],
       "trades": 0,
       "completed_ts": null,
       "contest_ver": 1,
